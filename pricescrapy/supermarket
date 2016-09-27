@@ -1,0 +1,2435 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN">
+<html class="js bootstrap-anchors-processed" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" lang="zh-hant">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Consumer Council 消費者委員會 － 網上價格一覽通">
+    <meta property="og:url" content="http://www3.consumer.org.hk/pricewatch/supermarket/index.php?filter1=001&amp;lang=tc">
+    <meta property="og:image" content="http://www.consumer.org.hk/fb/cclogo.gif">
+    <meta property="og:site_name" content="Consumer Council 消費者委員會 － 網上價格一覽通">
+    <meta name="keywords" content="消費者委員會, 消委會, consumer council, 超級市場, 超市, supermarkets, supermarket price comparisons, 超市格價, 超市價格比較, supermarket prices, 網上價格一覽通, 網上格價一覽通, supermarket price watch, supermarket pricewatch">
+    <title>Consumer Council 消費者委員會 － 網上價格一覽通</title>
+    <link rel="stylesheet" type="text/css" href="newstyle.css">
+
+<script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ ga('create', 'UA-66359901-1', 'auto');
+ ga('send', 'pageview');
+
+</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html class="js bootstrap-anchors-processed" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" lang="zh-hant"><head profile="http://www.w3.org/1999/xhtml/vocab">
+
+  
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="alternate" type="application/rss+xml" title="消費者委員會" href="https://consumer.org.hk/ws_chi/rss.xml">
+	<title>消費者委員會</title>
+
+    <style>
+@import url("https://consumer.org.hk/modules/system/system.base.css?nv614b");
+</style>
+<style>
+@import url("https://consumer.org.hk/sites/all/modules/date/date_api/date.css?nv614b");
+@import url("https://consumer.org.hk/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?nv614b");
+@import url("https://consumer.org.hk/modules/field/theme/field.css?nv614b");
+@import url("https://consumer.org.hk/modules/poll/poll.css?nv614b");
+@import url("https://consumer.org.hk/sites/all/modules/extlink/extlink.css?nv614b");
+@import url("https://consumer.org.hk/sites/all/modules/views/css/views.css?nv614b");
+@import url("https://consumer.org.hk/sites/all/modules/ckeditor/css/ckeditor.css?nv614b");
+</style>
+<style>
+@import url("https://consumer.org.hk/sites/all/modules/colorbox/styles/default/colorbox_style.css?nv614b");
+@import url("https://consumer.org.hk/sites/all/modules/ctools/css/ctools.css?nv614b");
+@import url("https://consumer.org.hk/sites/all/libraries/fancybox/source/jquery.fancybox.css?nv614b");
+@import url("https://consumer.org.hk/sites/all/modules/lightbox2/css/lightbox.css?nv614b");
+@import url("https://consumer.org.hk/sites/all/modules/panels/css/panels.css?nv614b");
+@import url("https://consumer.org.hk/sites/all/modules/pollanon/pollanon.css?nv614b");
+@import url("https://consumer.org.hk/sites/all/modules/kanhan_text_resize/css/text-resize.css?nv614b");
+@import url("https://consumer.org.hk/sites/all/modules/kanhan_language_switcher/css/language_switcher.css?nv614b");
+@import url("https://consumer.org.hk/sites/all/libraries/superfish/css/superfish.css?nv614b");
+@import url("https://consumer.org.hk/sites/all/libraries/superfish/css/superfish-navbar.css?nv614b");
+</style>
+<style>
+@import url("https://consumer.org.hk/sites/consumer/themes/bootstrap/css/bootstrap.min.css?nv614b");
+@import url("https://consumer.org.hk/sites/consumer/themes/bootstrap/js/slick/slick.css?nv614b");
+@import url("https://consumer.org.hk/sites/consumer/themes/bootstrap/css/font.css?nv614b");
+@import url("https://consumer.org.hk/sites/consumer/themes/bootstrap/css/overrides.css?nv614b");
+</style>
+<style media="print">
+@import url("https://consumer.org.hk/sites/consumer/themes/bootstrap/css/print.css?nv614b");
+</style>
+<script src="/www2015/files/jquery_002.js"></script>
+<script src="/www2015/files/jquery.js"></script>
+<script src="/www2015/files/drupal.js"></script>
+<script src="/www2015/files/jquery_004.js"></script>
+<script src="/www2015/files/jquery_012.js"></script>
+<script src="/www2015/files/jquery_008.js"></script>
+<script src="/www2015/files/ajax.js"></script>
+<script src="/www2015/files/jquery_update.js"></script>
+<script src="/www2015/files/extlink.js"></script>
+<script src="/www2015/files/zh-hant_Dtwk8lwXOjJhFMjfL2UWkd9bDgWgRtC_J6jZADtGnq0.js"></script>
+<script src="/www2015/files/jquery_007.js"></script>
+<script src="/www2015/files/colorbox.js"></script>
+<script src="/www2015/files/colorbox_style.js"></script>
+<script src="/www2015/files/fancybox.js"></script>
+<script src="/www2015/files/jquery_010.js"></script>
+<script src="/www2015/files/jquery_005.js"></script>
+<script src="/www2015/files/lightbox.js"></script>
+<script src="/www2015/files/jquery_003.js"></script>
+<script src="/www2015/files/pollanon.js"></script>
+<script src="/www2015/files/text-resize.js"></script>
+<script src="/www2015/files/language_switcher.js"></script>
+<script src="/www2015/files/base.js"></script>
+<script src="/www2015/files/_progress.js"></script>
+<script src="/www2015/files/ajax_view_002.js"></script>
+<script src="/www2015/files/better_exposed_filters.js"></script>
+<script src="/www2015/files/auto-submit.js"></script>
+<script src="/www2015/files/views_load_more.js"></script>
+<script src="/www2015/files/jquery_011.js"></script>
+<script src="/www2015/files/sfsmallscreen.js"></script>
+<script src="/www2015/files/supposition.js"></script>
+<script src="/www2015/files/superfish.js"></script>
+<script src="/www2015/files/supersubs.js"></script>
+<script src="/www2015/files/superfish_002.js"></script>
+<script src="/www2015/files/bootstrap_002.js"></script>
+<script src="/www2015/files/jwplayer.js"></script>
+<script src="/www2015/files/jwplayer_002.js"></script><style type="text/css"></style>
+<script src="/www2015/files/jquery_009.js"></script>
+<script src="/www2015/files/jquery_013.js"></script>
+<script src="/www2015/files/slick.js"></script>
+<script src="/www2015/files/jquery_006.js"></script>
+<script src="/www2015/files/common.js"></script>
+<script src="/www2015/files/layout.js"></script>
+<script src="/www2015/files/listDecorate.js"></script>
+<script src="/www2015/files/ajax_view.js"></script>
+<script src="/www2015/files/ajax_002.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"ws_chi\/","ajaxPageState":{"theme":"bootstrap","theme_token":"ZZsiUxSKG_UPNLgL3b5o18dZenyW7M3mEfoaogPai28","jquery_version":"1.7","js":{"sites\/consumer\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"public:\/\/languages\/zh-hant_Dtwk8lwXOjJhFMjfL2UWkd9bDgWgRtC_J6jZADtGnq0.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/fancybox\/fancybox.js":1,"sites\/all\/libraries\/fancybox\/source\/jquery.fancybox.pack.js":1,"sites\/all\/libraries\/fancybox\/lib\/jquery.mousewheel-3.0.6.pack.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/pollanon\/js\/jquery.cookie.min.js":1,"sites\/all\/modules\/pollanon\/js\/pollanon.pack.js":1,"sites\/all\/modules\/kanhan_text_resize\/js\/text-resize.js":1,"sites\/all\/modules\/kanhan_language_switcher\/js\/language_switcher.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"sites\/consumer\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/better_exposed_filters\/better_exposed_filters.js":1,"sites\/all\/modules\/ctools\/js\/auto-submit.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/consumer\/themes\/bootstrap\/js\/bootstrap.min.js":1,"sites\/consumer\/themes\/bootstrap\/js\/jwplayer\/jwplayer.js":1,"sites\/consumer\/themes\/bootstrap\/js\/jwplayer\/jwplayer.html5.js":1,"sites\/consumer\/themes\/bootstrap\/js\/jquery.als-1.7.js":1,"sites\/consumer\/themes\/bootstrap\/js\/jquery.zaccordion.js":1,"sites\/consumer\/themes\/bootstrap\/js\/slick\/slick.js":1,"sites\/consumer\/themes\/bootstrap\/js\/jquery.rwdImageMaps.min.js":1,"sites\/consumer\/themes\/bootstrap\/js\/common.js":1,"sites\/consumer\/themes\/bootstrap\/js\/layout.js":1,"sites\/consumer\/themes\/bootstrap\/js\/listDecorate.js":1,"sites\/consumer\/themes\/bootstrap\/js\/modules\/views\/js\/ajax_view.js":1,"sites\/consumer\/themes\/bootstrap\/js\/misc\/ajax.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/poll\/poll.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/fancybox\/source\/jquery.fancybox.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/pollanon\/pollanon.css":1,"sites\/all\/modules\/kanhan_text_resize\/css\/text-resize.css":1,"sites\/all\/modules\/kanhan_language_switcher\/css\/language_switcher.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"sites\/consumer\/themes\/bootstrap\/css\/bootstrap.min.css":1,"sites\/consumer\/themes\/bootstrap\/js\/slick\/slick.css":1,"sites\/consumer\/themes\/bootstrap\/css\/font.css":1,"sites\/consumer\/themes\/bootstrap\/css\/overrides.css":1,"sites\/consumer\/themes\/bootstrap\/css\/print.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"\u4e0b\u4e00\u9801 \u00bb","close":"\u95dc\u9589","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"fancybox":{"options":{"content":"\u003Cdiv id=\u0022jwplayer_video\u0022\u003E\u003C\/div\u003E"},"callbacks":{"beforeShow":"fancyBoxBeforeShow","afterShow":"fancyBoxAfterShow"}},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":1,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"View Image Details","node_link_target":"_blank","image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0},"better_exposed_filters":{"views":{"shopping_guide_views":{"displays":{"block_3":{"filters":[]},"block_sg_index":{"filters":[]}}},"focus_search_views":{"displays":{"block":{"filters":[]}}},"whats_new_views":{"displays":{"index_whats_new_header_block_chi":{"filters":[]},"index_whats_new_tumb_block_chi":{"filters":[]}}},"choice_views":{"displays":{"block_choice_cover":{"filters":[]},"block_index_latest_article":{"filters":{"field_serial_target_id_entityreference_filter":{"required":true}}},"block_index_abstract":{"filters":{"field_serial_target_id_entityreference_filter":{"required":false}}}}},"views_complaint_report":{"displays":{"block_complaintd_case":{"filters":[]}}},"policies_studies":{"displays":{"block_index_ps":{"filters":[]}}},"banner":{"displays":{"block_bottom_banner":{"filters":[]}}}},"datepicker":false,"slider":false,"settings":[]},"views":{"ajax_path":"\/ws_chi\/views\/ajax","ajaxViews":{"views_dom_id:28c9a34915217af6d1545aed37a0290c":{"view_name":"choice_views","view_display_id":"block_choice_cover","view_args":"","view_path":"node","view_base_path":"choice\/list","view_dom_id":"28c9a34915217af6d1545aed37a0290c","pager_element":0},"views_dom_id:c042f718633229c71a365939cf24de1b":{"view_name":"choice_views","view_display_id":"block_index_latest_article","view_args":"","view_path":"node","view_base_path":"choice\/list","view_dom_id":"c042f718633229c71a365939cf24de1b","pager_element":0},"views_dom_id:d4d4d47e5ff7d60135e2dac016bd15df":{"view_name":"choice_views","view_display_id":"block_index_abstract","view_args":"","view_path":"node","view_base_path":"choice\/list","view_dom_id":"d4d4d47e5ff7d60135e2dac016bd15df","pager_element":0}}},"extlink":{"extTarget":0,"extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"superfish":{"2":{"id":"2","sf":{"pathClass":"active-trail","animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"\u4e3b\u9801"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"42.5","maxWidth":"42.5","extraWidth":1}}}},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":1,"placement":"auto top","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":0,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<style type="text/css">.fancybox-margin{margin-right:17px;}</style><script src="/www2015/files/jwpsrv.txt"></script></head>
+
+<script type="text/javascript">
+	(function ($) {
+		$( document ).ready(function() {
+			$('a.menuparent').hover(function() {
+				var target_menu = $(this).parent();
+				$('ul.sf-menu li.menuparent').removeClass('sfHover');
+				$('ul.sf-menu li.menuparent').find('ul').addClass('sf-hidden');
+				target_menu.addClass('sfHover');
+				target_menu.find('ul').removeClass('sf-hidden');
+			});
+			$('a.menuparent').focus(function() {
+				var target_menu = $(this).parent();
+				$('ul.sf-menu li.menuparent').removeClass('sfHover');
+				$('ul.sf-menu li.menuparent').find('ul').addClass('sf-hidden');
+				target_menu.addClass('sfHover');
+				target_menu.find('ul').removeClass('sf-hidden');
+			});
+			$('.main-container').hover(function() {
+				$('ul.sf-menu li.menuparent').removeClass('sfHover');
+				$('ul.sf-menu li.menuparent').find('ul').addClass('sf-hidden');
+			});
+			$('.main-container').focus(function() {
+				$('ul.sf-menu li.menuparent').removeClass('sfHover');
+				$('ul.sf-menu li.menuparent').find('ul').addClass('sf-hidden');
+			});
+		});
+	})(jQuery);	
+</script>
+
+<body class="html front not-logged-in one-sidebar sidebar-first page-node i18n-zh-hant lightbox-processed">
+
+<!-- Header Start -->
+    <header id="navbar" role="banner" class="navbar container navbar-default">
+	<div class="navbar-header-left"></div>
+    <div class="navbar-header-right"></div>
+  <div class="container">
+
+
+    <div class="navbar-header">
+
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+      <div class="logo">
+                        <a href="https://consumer.org.hk/ws_chi" title="首頁">
+                  <img src="/www2015/files/logo.png" alt="首頁">
+              </a>
+                </div>
+
+    </div>
+
+
+
+
+                <div class="navbar-collapse collapse" style="padding-left: 0; padding-right: 0;">
+              <nav role="navigation" class="desktop-menu">
+                                          <div class="region region-navigation">
+    <section id="block-superfish-2" class="block block-superfish clearfix">
+
+
+	  <ul id="superfish-2" class="menu sf-menu sf-main-menu sf-navbar sf-style-none sf-total-items-5 sf-parent-items-5 sf-single-items-0 nav superfish-processed sf-js-enabled">
+   <li id="menu-930-2" class="first odd sf-item-1 sf-depth-2 sf-total-children-6 sf-parent-children-3 sf-single-children-3 menuparent sf-breadcrumb">
+      <a href="https://consumer.org.hk/ws_chi/news/articles/list" class="sf-depth-2 menuparent"><span>最新資訊</span></a>
+
+   </li>
+   <li id="menu-877-2" class="middle even sf-item-2 sf-depth-2 sf-total-children-7 sf-parent-children-2 sf-single-children-5 menuparent">
+      <a href="https://consumer.org.hk/ws_chi/shopping-guide" class="sf-depth-2 menuparent"><span>消費指南</span></a>
+
+   </li>
+   <li id="menu-879-2" class="middle odd sf-item-3 sf-depth-2 sf-total-children-7 sf-parent-children-2 sf-single-children-5 menuparent">
+      <a href="https://consumer.org.hk/ws_chi/complaints_and_advices/how_to_complain/howtocomplain.html" class="sf-depth-2 menuparent"><span>投訴及保障</span></a>
+
+   </li>
+   <li id="menu-881-2" class="middle even sf-item-4 sf-depth-2 sf-total-children-2 sf-parent-children-2 sf-single-children-0 menuparent">
+      <a href="https://consumer.org.hk/ws_chi/competition_issues/policy_position/list" class="sf-depth-2 menuparent"><span>政策及研究</span></a>
+
+   </li>
+   <li id="menu-3024-2" class="last odd sf-item-5 sf-depth-2 sf-total-children-8 sf-parent-children-4 sf-single-children-4 menuparent">
+      <a href="https://consumer.org.hk/ws_chi/profile/mission/mission.html" class="sf-depth-2 menuparent"><span>關於我們</span></a>
+
+   </li>
+</ul>
+	  
+  
+  
+  </section> <!-- /.block -->
+  </div>
+                                </nav>
+
+              <nav role="navigation" class="mobile-menu">
+                                          <div class="region region-navigation-mobile">
+    <section id="block-block-43" class="block block-block clearfix">
+
+      
+  <div class="mobile-login-block">
+	<div class="en"><a class="setLogin" href="https://consumer.org.hk/ws_chi/user/login">Login</a><a class="setAcc" href="https://consumer.org.hk/ws_chi/user/register">Sign up</a></div>
+
+	<div class="chi"><a class="setLogin" href="https://consumer.org.hk/ws_chi/user/login">登入</a><a class="setAcc" href="https://consumer.org.hk/ws_chi/user/register">註冊</a></div>
+<div class="gb"><a class="setLogin" href="https://consumer.org.hk/ws_chi/user/login">登入</a><a class="setAcc" href="https://consumer.org.hk/ws_chi/user/register">注册</a></div>
+</div></section> <!-- /.block -->
+<section id="block-views-shopping-guide-views-block-3" class="block block-views clearfix">
+
+        <div class="block-title"><a href="#block-views-shopping-guide-views-block-3" data-target="">產品及服務類別</a></div>
+    
+  <div class="view view-shopping-guide-views view-id-shopping_guide_views view-display-id-block_3 view-dom-id-ba5c48adadf2d7ecc1c0eb0d4a0c7f3d">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="javascript:void(0)" class="consumer-link">家庭電器</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="javascript:void(0)" class="consumer-link">電子及影音</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="javascript:void(0)" class="consumer-link">食物及飲品</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="javascript:void(0)" class="consumer-link">家居用品</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="javascript:void(0)" class="consumer-link">兒童用品</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="javascript:void(0)" class="consumer-link">健康及美容</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="javascript:void(0)" class="consumer-link">可持續消費</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="javascript:void(0)" class="consumer-link">個人理財</a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="javascript:void(0)" class="consumer-link">服務</a></span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="javascript:void(0)" class="consumer-link">消閒及汽車</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></section> <!-- /.block -->
+<section id="block-block-41" class="block block-block clearfix">
+
+      
+  <ul class="menu nav"><li style="" class="first expanded mlid-930"><a href="javascript:void(0)" title="news/press_releases應在傳媒專區">最新資訊</a><ul class="menu nav">
+</ul></li>
+<li style="" class="expanded mlid-877"><a href="javascript:void(0)" title="">消費指南</a><ul class="menu nav">
+</ul></li>
+<li style="" class="expanded mlid-879"><a href="javascript:void(0)">投訴及保障</a><ul class="menu nav">
+</ul></li>
+<li style="" class="expanded mlid-881"><a href="javascript:void(0)" title="">政策及研究</a><ul class="menu nav">
+</ul></li>
+<li style="" class="last expanded mlid-3024"><a href="javascript:void(0)">關於我們</a><ul class="menu nav">
+</ul></li>
+</ul><ul class="menu nav"><li style="" class="first last expanded mlid-1754"><a href="javascript:void(0)" title="views gen" class="restricted">傳媒專區</a><ul class="menu nav">
+</ul></li>
+</ul></section> <!-- /.block -->
+<section id="block-menu-menu-mobile-footer-link" class="block block-menu clearfix">
+
+        <div class="block-title"><a href="#block-menu-menu-mobile-footer-link" data-target="">Mobile Footer Link</a></div>
+    
+  <ul class="menu nav"><li style="" class="first leaf"><a href="https://consumer.org.hk/ws_chi/contactus" title="">聯絡我們</a></li>
+<li style="" class="leaf"><a href="https://consumer.org.hk/ws_chi/archives" title="">檔案庫</a></li>
+<li style="" class="leaf"><a href="https://consumer.org.hk/ws_chi/sitemap" title="">網頁地圖</a></li>
+<li style="" class="leaf"><a href="https://consumer.org.hk/ws_chi/others/copyright/copyright.html" title="">版權和免責聲明</a></li>
+<li style="" class="leaf"><a href="https://consumer.org.hk/ws_chi/profile/codeonaccess/index.html" title="">公開資料守則</a></li>
+<li style="" class="leaf"><a href="https://consumer.org.hk/ws_chi/others/privacy_policy/pps.html" title="">私隱政策</a></li>
+<li style="" class="last leaf"><a href="https://consumer.org.hk/ws_chi/accessibility" title="">無障礙聲明</a></li>
+</ul></section> <!-- /.block -->
+<section id="block-kanhan-language-switcher-language-switcher-mobile" class="block block-kanhan-language-switcher clearfix">
+
+      
+  
+<div id="language-buttons-wrapper" class="mobile-language-switcher">
+	<div id="language-buttons">
+		<span class="mobile-language-switcher-title">語言設定</span>
+		<ul>
+							<li>
+					<a href="javascript:;" class="changeVerEng">EN</a>
+				</li>
+				<!--<li>
+					繁				</li>-->
+				<li>
+					<a href="javascript:;" class="changeVerSc">簡</a>
+				</li>
+					</ul>
+	</div>
+</div></section> <!-- /.block -->
+<section id="block-kanhan-text-resize-text-resize-mobile" class="block block-kanhan-text-resize clearfix">
+
+      
+  
+<div id="resize-buttons-wrapper" class="mobile-resize">
+	<div id="resize-buttons">
+	  <!-- <span class="element-invisible">Text size</span> -->
+		<span>字體大小</span>
+		<ul>
+			<li class="font-normal">
+				<a class="focus" href="#">
+				預設				</a>
+			</li>
+			<li class="font-large">
+				<a href="#">
+					較大				</a>
+			</li>
+			<li class="font-largest">
+				<a href="#">
+					最大				</a>
+			</li>
+		</ul>
+	</div>
+</div></section> <!-- /.block -->
+  </div>
+                                </nav>
+
+          </div>
+          <div class="navbar-collapse-search collapse" style="padding-left: 0; padding-right: 0;">
+              <nav role="navigation" class="mobile-menu" style="padding: 10px;">
+                                          <div class="region region-navigation-mobile-search">
+    <section id="block-block-42" class="block block-block clearfix">
+
+      
+  <form action="/ws_chi/keyword-search" method="GET">
+<table style="width:100%">
+	<tbody>
+		<tr>
+			<td>
+			<input name="keys" title="搜尋" class="form-control" placeholder="搜尋" type="text">
+			</td>
+			<td style="width:25px"><button class="btn-search" title="搜尋"><img src="/www2015/files/icon_search.png" style="width: 100%" alt="搜尋"></button></td>
+		</tr>
+	</tbody>
+</table>
+</form>
+</section> <!-- /.block -->
+  </div>
+                                </nav>
+          </div>
+      
+      
+  </div>
+</header>
+<!-- Header End -->
+<script src="jquery-1.11.3.min.js"></script>
+<script src="jquery.tablesorter.js"></script>
+
+<center>
+
+<script type="text/javascript">
+
+function update_menu(x)
+{
+    if (x == 1) { document.s1.filter2.value = ''; document.s1.filter3.value = ''; }
+    if (x == 2) { document.s1.filter3.value = ''; }
+
+    var f1 = document.s1.filter1;
+    var f2 = document.s1.filter2;
+    var f3 = document.s1.filter3;
+    var v1 = document.s1.filter1.value;
+    var v2 = document.s1.filter2.value;
+    var v3 = document.s1.filter3.value;
+
+if (x == 1)
+{
+f2.length = 0;
+f2[0] = new Option('--------', '');
+f3.length = 0;
+f3[0] = new Option('--------', '');
+if (v1 == '001') {f2[1]=new Option('蛋糕','001');f2[2]=new Option('麵包','002');f2[3]=new Option('穀類早餐','003');f2[4]=new Option('麵包醬','010');f2[5]=new Option('蜂蜜 / 蜜糖 / 糖漿','030');}
+if (v1 == '004') {f2[1]=new Option('牛奶 / 牛奶飲品','001');f2[2]=new Option('芝士 / 乳酪 / 乳酸產品','002');f2[3]=new Option('牛油 / 植物牛油 / 忌廉','003');f2[4]=new Option('冰凍甜點','007');f2[5]=new Option('豆漿 / 豆奶 / 即沖豆漿','020');f2[6]=new Option('豆腐製品','030');f2[7]=new Option('蛋類','110');}
+if (v1 == '009') {f2[1]=new Option('糖果 / 甜品','003');f2[2]=new Option('乾果','009');f2[3]=new Option('能量棒 / 營養棒 / 點心棒','501');f2[4]=new Option('餅乾','002');f2[5]=new Option('小食','001');}
+if (v1 == '015') {f2[1]=new Option('米','001');f2[2]=new Option('食用油','002');f2[3]=new Option('罐頭食品','003');f2[4]=new Option('無菌紙盒包裝食品','004');f2[5]=new Option('新鮮蔬菜','051');f2[6]=new Option('新鮮水果','101');f2[7]=new Option('冰鮮/新鮮肉類','201');f2[8]=new Option('經急凍/解凍處理肉類','221');f2[9]=new Option('急凍肉類','251');f2[10]=new Option('急凍海產','501');f2[11]=new Option('急凍蔬菜','601');}
+if (v1 == '018') {f2[1]=new Option('即食麵 / 快熟粉','001');f2[2]=new Option('烏冬麵','002');f2[3]=new Option('非即食中式粉麵 / 日式粉麵','003');f2[4]=new Option('非即食意式粉麵','004');f2[5]=new Option('調味 / 煮食用料','005');f2[6]=new Option('烘焙用料 / 麵粉','007');f2[7]=new Option('急凍加工食品 / 冷藏加工食品','010');}
+if (v1 == '027') {f2[1]=new Option('汽水','001');f2[2]=new Option('咖啡 / 茶包 / 奶茶 / 鴛鴦','003');f2[3]=new Option('果汁類飲品','004');f2[4]=new Option('東方特色飲品','005');f2[5]=new Option('樽裝水 / 運動飲品 /  能量飲品','006');f2[6]=new Option('麥片飲品 / 麥芽飲品 / 朱古力飲品','009');f2[7]=new Option('甜品','011');}
+if (v1 == '037') {f2[1]=new Option('嬰幼兒奶粉 / 兒童奶粉','001');f2[2]=new Option('孕婦奶粉','002');f2[3]=new Option('成人奶粉','003');f2[4]=new Option('嬰幼兒食品 / 嬰兒食品 / 幼兒食品','011');f2[5]=new Option('嬰兒用品','020');}
+if (v1 == '040') {f2[1]=new Option('口腔護理','001');f2[2]=new Option('女士衛生用品','002');f2[3]=new Option('頭髮護理','004');f2[4]=new Option('沐浴露 / 皂液 / 肥皂','003');f2[5]=new Option('手部殺菌消毒','009');f2[6]=new Option('濕巾','011');f2[7]=new Option('皮膚護理','005');f2[8]=new Option('女士脫毛用品 / 除毛用品','006');f2[9]=new Option('男士護理','007');f2[10]=new Option('香體用品','008');f2[11]=new Option('藥品','010');f2[12]=new Option('急救用品','015');f2[13]=new Option('醫療設備','801');f2[14]=new Option('避孕','110');f2[15]=new Option('成人紙尿片 / 紙尿褲','210');}
+if (v1 == '045') {f2[1]=new Option('洗衣用品','001');f2[2]=new Option('清潔用品','002');f2[3]=new Option('紙品','003');f2[4]=new Option('保鮮紙 / 食物袋 / 錫紙','004');f2[5]=new Option('吸濕防霉','020');f2[6]=new Option('電器','801');f2[7]=new Option('寵物食品','805');}
+if (v1 == '046') {f2[1]=new Option('啤酒','001');f2[2]=new Option('仙地','002');f2[3]=new Option('紅酒','003');f2[4]=new Option('白酒','004');f2[5]=new Option('紹興酒','005');f2[6]=new Option('米酒','006');}
+}
+
+if (x == 2)
+{
+f3.length = 0;
+f3[0] = new Option('--------', '');
+if (v1 == '001' && v2 == '001') {f3[1]=new Option('海綿蛋糕','001');f3[2]=new Option('雪芳蛋糕','002');f3[3]=new Option('瑞士卷','003');f3[4]=new Option('芝士蛋糕 / 芝士餅','004');f3[5]=new Option('朱古力批 / 朱古力蛋糕','020');f3[6]=new Option('布朗尼朱古力餅','030');f3[7]=new Option('急凍/冷凍蛋糕','100');}
+if (v1 == '001' && v2 == '002') {f3[1]=new Option('方包','001');f3[2]=new Option('餐包 / 餡料麵包','004');f3[3]=new Option('酥皮包','100');f3[4]=new Option('其他麵包','200');}
+if (v1 == '001' && v2 == '003') {f3[1]=new Option('即沖麥片','001');f3[2]=new Option('即食麥片','002');f3[3]=new Option('快熟麥片','003');f3[4]=new Option('滾壓燕麥片','005');f3[5]=new Option('粟米片 / 脆片','010');}
+if (v1 == '001' && v2 == '010') {f3[1]=new Option('花生醬','011');f3[2]=new Option('果醬','021');f3[3]=new Option('吞拿魚醬','031');f3[4]=new Option('榛子醬','041');}
+if (v1 == '001' && v2 == '030') {f3[1]=new Option('蜂蜜 / 蜜糖','001');f3[2]=new Option('蜜糖糖漿','010');f3[3]=new Option('糖漿','020');}
+if (v1 == '004' && v2 == '001') {f3[1]=new Option('低溫冷藏鮮奶 / 牛奶飲品','001');f3[2]=new Option('UHT常溫保鮮牛奶 / 牛奶飲品','002');f3[3]=new Option('淡奶','003');f3[4]=new Option('甜奶 / 煉奶','010');}
+if (v1 == '004' && v2 == '002') {f3[1]=new Option('乳酪','001');f3[2]=new Option('乳酪飲品 / 乳酸飲品','002');f3[3]=new Option('乳酸味飲品','003');f3[4]=new Option('片裝芝士','007');f3[5]=new Option('芝士醬','011');}
+if (v1 == '004' && v2 == '003') {f3[1]=new Option('牛油','001');f3[2]=new Option('植物牛油','002');f3[3]=new Option('牛油混合植物油','003');f3[4]=new Option('忌廉','005');}
+if (v1 == '004' && v2 == '007') {f3[1]=new Option('雪糕','001');f3[2]=new Option('雪糕棒 / 雪條','003');}
+if (v1 == '004' && v2 == '020') {f3[1]=new Option('冷藏鮮豆漿','001');f3[2]=new Option('豆奶 / 豆漿','005');f3[3]=new Option('即沖豆漿','009');}
+if (v1 == '004' && v2 == '030') {f3[1]=new Option('豆腐','001');f3[2]=new Option('豆腐花','005');}
+if (v1 == '004' && v2 == '110') {f3[1]=new Option('雞蛋','001');}
+if (v1 == '009' && v2 == '003') {f3[1]=new Option('朱古力 / 巧克力','001');f3[2]=new Option('糖','003');f3[3]=new Option('香口膠','005');f3[4]=new Option('o者喱','010');}
+if (v1 == '009' && v2 == '009') {f3[1]=new Option('芒果乾','009');}
+if (v1 == '009' && v2 == '501') {f3[1]=new Option('穀類棒','201');f3[2]=new Option('大豆棒','101');}
+if (v1 == '009' && v2 == '002') {f3[1]=new Option('夾心餅 / 餡餅','001');f3[2]=new Option('曲奇','002');f3[3]=new Option('威化餅','003');f3[4]=new Option('梳打餅 / 克力架','004');f3[5]=new Option('芝士餅','005');f3[6]=new Option('餅乾條','007');f3[7]=new Option('其他','008');}
+if (v1 == '009' && v2 == '001') {f3[1]=new Option('薯片 / 薯條','001');f3[2]=new Option('粟米脆片 / 玉米脆片','002');f3[3]=new Option('脆蝦餅 / 燒米餅','003');f3[4]=new Option('麵類小食','005');f3[5]=new Option('果仁','020');f3[6]=new Option('紫菜','025');}
+if (v1 == '015' && v2 == '001') {f3[1]=new Option('白米','001');f3[2]=new Option('紅米 / 糙米 / 混合米','002');f3[3]=new Option('燕麥米','009');f3[4]=new Option('糯米','020');}
+if (v1 == '015' && v2 == '002') {f3[1]=new Option('花生油','001');f3[2]=new Option('花生調和油','002');f3[3]=new Option('粟米油','003');f3[4]=new Option('芥花籽油','004');f3[5]=new Option('芥花籽調和油','005');f3[6]=new Option('葵花籽油','006');f3[7]=new Option('葵花籽調和油','007');f3[8]=new Option('葡萄籽油','008');f3[9]=new Option('特級初榨橄欖油','010');f3[10]=new Option('橄欖油','012');f3[11]=new Option('清淡橄欖油','013');f3[12]=new Option('混合油橄欖果渣油','015');f3[13]=new Option('米糠油','018');f3[14]=new Option('豆油/菜籽油及調和油','020');}
+if (v1 == '015' && v2 == '003') {f3[1]=new Option('罐頭火腿豬肉/午餐肉','111');f3[2]=new Option('罐頭肉丁','121');f3[3]=new Option('罐頭肉絲','131');f3[4]=new Option('罐頭肉片','141');f3[5]=new Option('罐頭腸','181');f3[6]=new Option('罐頭沙甸魚','501');f3[7]=new Option('罐頭鯪魚','531');f3[8]=new Option('罐頭吞拿魚','561');f3[9]=new Option('罐頭魚柳','591');f3[10]=new Option('罐頭鮑魚','601');f3[11]=new Option('罐頭波蘿','801');f3[12]=new Option('罐頭原粒粟米','821');f3[13]=new Option('罐頭粟米蓉','823');f3[14]=new Option('罐頭菇','831');f3[15]=new Option('罐頭桃','851');f3[16]=new Option('罐頭雜果','861');f3[17]=new Option('罐頭腰豆','881');f3[18]=new Option('罐頭焗豆','901');f3[19]=new Option('罐頭湯','951');}
+if (v1 == '015' && v2 == '004') {f3[1]=new Option('湯','001');f3[2]=new Option('蔬果','002');}
+if (v1 == '015' && v2 == '051') {f3[1]=new Option('菜心','051');f3[2]=new Option('白菜 / 小唐菜','071');f3[3]=new Option('西生菜','101');f3[4]=new Option('唐生菜','105');f3[5]=new Option('羅馬生菜','111');f3[6]=new Option('青椰菜','129');f3[7]=new Option('紹菜 / 長椰菜','131');f3[8]=new Option('娃娃菜','139');f3[9]=new Option('椰菜花','151');f3[10]=new Option('西蘭花','161');f3[11]=new Option('西芹','201');f3[12]=new Option('粟米 / 玉米','301');f3[13]=new Option('粟米仔','311');f3[14]=new Option('四季豆 / 玉豆','451');f3[15]=new Option('甜豆 / 蜜糖豆','453');f3[16]=new Option('荷蘭豆','455');f3[17]=new Option('西椒 / 甜椒','551');f3[18]=new Option('番茄','651');f3[19]=new Option('節瓜 / 毛瓜','705');f3[20]=new Option('苦瓜','710');f3[21]=new Option('甘筍 / 紅蘿蔔','751');f3[22]=new Option('洋蔥','781');f3[23]=new Option('薯仔 / 馬鈴薯','801');f3[24]=new Option('蕃薯','805');f3[25]=new Option('馬蹄','807');}
+if (v1 == '015' && v2 == '101') {f3[1]=new Option('蘋果','111');f3[2]=new Option('香蕉','101');f3[3]=new Option('梨','121');f3[4]=new Option('橙','131');f3[5]=new Option('西柚','135');f3[6]=new Option('檸檬','139');f3[7]=new Option('菠蘿','151');f3[8]=new Option('士多啤梨 / 草莓','201');f3[9]=new Option('奇異果','301');f3[10]=new Option('提子','401');f3[11]=new Option('火龍果','551');f3[12]=new Option('藍莓','589');}
+if (v1 == '015' && v2 == '201') {f3[1]=new Option('冰鮮豬肉','101');f3[2]=new Option('冰鮮雞','131');}
+if (v1 == '015' && v2 == '221') {f3[1]=new Option('經解凍豬肉','201');f3[2]=new Option('經解凍雞翼','101');f3[3]=new Option('經解凍全雞','131');}
+if (v1 == '015' && v2 == '251') {f3[1]=new Option('急凍豬扒','201');f3[2]=new Option('急凍雞翼','101');f3[3]=new Option('急凍雞髀','111');f3[4]=new Option('急凍雞胸','251');f3[5]=new Option('急凍雞柳','261');f3[6]=new Option('急凍全雞','131');}
+if (v1 == '015' && v2 == '501') {f3[1]=new Option('急凍秋刀魚','101');f3[2]=new Option('急凍鯖魚','111');f3[3]=new Option('急凍鱈魚','121');f3[4]=new Option('急凍比目魚','131');f3[5]=new Option('急凍黃立鯧','141');f3[6]=new Option('急凍三文魚','151');f3[7]=new Option('急凍黃花魚','161');}
+if (v1 == '015' && v2 == '601') {f3[1]=new Option('急凍雜菜','011');f3[2]=new Option('急凍青豆','101');f3[3]=new Option('急凍小青豆','105');f3[4]=new Option('急凍粟米粒','111');}
+if (v1 == '018' && v2 == '001') {f3[1]=new Option('包裝','001');f3[2]=new Option('杯裝 / 碗裝 / 碟裝','002');}
+if (v1 == '018' && v2 == '002') {f3[1]=new Option('濕麵','001');}
+if (v1 == '018' && v2 == '003') {f3[1]=new Option('素麵 / 拉麵','001');f3[2]=new Option('蕎麥麵','003');f3[3]=new Option('中式麵','005');f3[4]=new Option('米粉','010');f3[5]=new Option('粉絲','015');}
+if (v1 == '018' && v2 == '004') {f3[1]=new Option('長條意大利粉 (意大利麵)','001');f3[2]=new Option('通心粉 / 螺絲粉','002');}
+if (v1 == '018' && v2 == '005') {f3[1]=new Option('生抽','031');f3[2]=new Option('豉油 / 醬油','001');f3[3]=new Option('老抽','033');f3[4]=new Option('鮮露 / 鮮醬油 / 小麥調味汁','013');f3[5]=new Option('蠔油','002');f3[6]=new Option('豆豉醬 / 麵豉醬','003');f3[7]=new Option('XO醬','023');f3[8]=new Option('辣椒醬 / 辣椒油 / 辣豆瓣醬','004');f3[9]=new Option('沙爹醬','005');f3[10]=new Option('咖喱醬 / 葡汁','006');f3[11]=new Option('其他醬汁 / 醬料','007');f3[12]=new Option('椰漿','008');f3[13]=new Option('茄汁 / 蕃茄醬','010');f3[14]=new Option('蕃茄膏 / 蕃茄醬','009');f3[15]=new Option('腌菜 / 泡菜','011');f3[16]=new Option('清雞湯 / 清雞上湯','201');f3[17]=new Option('雞湯粒','211');f3[18]=new Option('雞粉','221');f3[19]=new Option('味精','016');f3[20]=new Option('鹽','017');f3[21]=new Option('糖 / 代糖','018');f3[22]=new Option('粟粉','020');f3[23]=new Option('魚膠粉','710');f3[24]=new Option('馬蹄粉','650');f3[25]=new Option('粘米粉 / 糯米粉','025');}
+if (v1 == '018' && v2 == '007') {f3[1]=new Option('自發粉','101');f3[2]=new Option('蛋糕麵粉 / 低筋麵粉','106');f3[3]=new Option('麵粉 / 中筋麵粉 ','111');f3[4]=new Option('麵包麵粉 / 高筋麵粉 ','121');f3[5]=new Option('麵包預拌粉','131');f3[6]=new Option('蛋糕預拌粉','136');f3[7]=new Option('班戟預拌粉','141');f3[8]=new Option('麵包酵母粉','151');f3[9]=new Option('梳打粉','161');}
+if (v1 == '018' && v2 == '010') {f3[1]=new Option('點心','010');f3[2]=new Option('火腿','020');f3[3]=new Option('煙肉','030');f3[4]=new Option('香腸','040');f3[5]=new Option('豬手','045');f3[6]=new Option('丸類','050');f3[7]=new Option('粥 / 麵','060');f3[8]=new Option('甜品','070');}
+if (v1 == '027' && v2 == '001') {f3[1]=new Option('樽裝','001');f3[2]=new Option('罐裝','002');}
+if (v1 == '027' && v2 == '003') {f3[1]=new Option('中式茶包','001');f3[2]=new Option('西式茶包','002');f3[3]=new Option('即溶咖啡','003');f3[4]=new Option('即飲咖啡','004');f3[5]=new Option('即沖奶茶','005');f3[6]=new Option('即飲奶茶','006');f3[7]=new Option('即飲鴛鴦','007');}
+if (v1 == '027' && v2 == '004') {f3[1]=new Option('冷藏果汁 / 果汁飲品','001');f3[2]=new Option('常溫儲存果汁 / 果汁飲品','002');f3[3]=new Option('濃縮飲品','003');}
+if (v1 == '027' && v2 == '005') {f3[1]=new Option('果汁類','001');f3[2]=new Option('保健飲品','002');f3[3]=new Option('茶類','003');f3[4]=new Option('綠茶','004');f3[5]=new Option('檸檬茶','005');f3[6]=new Option('蜂蜜柚子茶','006');}
+if (v1 == '027' && v2 == '006') {f3[1]=new Option('純蒸餾水','001');f3[2]=new Option('礦物質蒸餾水 / 加礦蒸餾水','005');f3[3]=new Option('礦物質水','010');f3[4]=new Option('礦泉水 / 深層地下水','110');f3[5]=new Option('運動飲品','301');f3[6]=new Option('能量飲品 / 提神飲品','601');f3[7]=new Option('營養素飲品 / 潮流飲品','701');}
+if (v1 == '027' && v2 == '009') {f3[1]=new Option('麥片飲品 / 麥芽飲品','005');}
+if (v1 == '027' && v2 == '011') {f3[1]=new Option('楊枝甘露','001');}
+if (v1 == '037' && v2 == '001') {f3[1]=new Option('嬰兒奶粉 / 幼兒奶粉 / 成長奶粉 / 學童奶粉','001');f3[2]=new Option('兒童營養補充品','003');}
+if (v1 == '037' && v2 == '002') {f3[1]=new Option('孕婦奶粉','001');}
+if (v1 == '037' && v2 == '003') {f3[1]=new Option('全脂奶粉','001');f3[2]=new Option('低脂/脫脂奶粉','002');f3[3]=new Option('中老年配方','003');f3[4]=new Option('營養補充品','010');}
+if (v1 == '037' && v2 == '011') {f3[1]=new Option('嬰兒米糊 / 幼兒米糊','101');f3[2]=new Option('嬰兒小食','105');}
+if (v1 == '037' && v2 == '020') {f3[1]=new Option('紙尿片','010');f3[2]=new Option('紙尿褲','015');f3[3]=new Option('嬰兒濕巾','020');f3[4]=new Option('沐浴露','030');f3[5]=new Option('洗髮水 / 洗髮露 / 洗髮乳','040');f3[6]=new Option('嬰兒護膚品','050');}
+if (v1 == '040' && v2 == '001') {f3[1]=new Option('牙膏','001');f3[2]=new Option('牙線','002');f3[3]=new Option('漱口水','003');f3[4]=new Option('牙刷','004');f3[5]=new Option('電動牙刷刷頭','005');f3[6]=new Option('電動牙刷 (乾電池式)','006');f3[7]=new Option('電動牙刷 (充電式)','007');}
+if (v1 == '040' && v2 == '002') {f3[1]=new Option('衛生巾','001');f3[2]=new Option('衛生護墊','002');f3[3]=new Option('衛生棉條','008');f3[4]=new Option('女性衛生潔膚液','012');}
+if (v1 == '040' && v2 == '004') {f3[1]=new Option('洗髮水 / 洗髮露 / 洗髮乳','001');f3[2]=new Option('護髮素 / 潤髮乳','003');f3[3]=new Option('頭髮造型','010');f3[4]=new Option('染髮產品','012');}
+if (v1 == '040' && v2 == '003') {f3[1]=new Option('沐浴露','001');f3[2]=new Option('洗手液','002');f3[3]=new Option('肥皂','007');}
+if (v1 == '040' && v2 == '009') {f3[1]=new Option('酒精搓手液','001');f3[2]=new Option('殺菌消毒濕紙巾','002');}
+if (v1 == '040' && v2 == '011') {f3[1]=new Option('即棄濕巾','001');f3[2]=new Option('濕廁紙','002');}
+if (v1 == '040' && v2 == '005') {f3[1]=new Option('洗面膏','001');f3[2]=new Option('潤膚露 / 潤膚霜','003');f3[3]=new Option('花士苓','005');f3[4]=new Option('防曬用品','007');f3[5]=new Option('潤唇膏','009');f3[6]=new Option('化妝棉 / 卸妝棉','015');f3[7]=new Option('面膜 / 眼膜','018');}
+if (v1 == '040' && v2 == '006') {f3[1]=new Option('女士剃毛刀套裝','001');f3[2]=new Option('女士剃毛刀補充刀片','011');f3[3]=new Option('即棄式女士剃毛刀','021');}
+if (v1 == '040' && v2 == '007') {f3[1]=new Option('刮鬚刀/剃鬚刀套裝','001');f3[2]=new Option('刮鬚刀/剃鬚刀補充刀片','003');f3[3]=new Option('即棄式剃鬚刀','005');f3[4]=new Option('剃鬚泡沫 / 剃鬚膏 / 剃鬚o者喱','007');}
+if (v1 == '040' && v2 == '008') {f3[1]=new Option('香體用品','001');}
+if (v1 == '040' && v2 == '010') {f3[1]=new Option('止痛退燒藥 / 傷風感冒藥','001');f3[2]=new Option('化痰藥 / 止咳藥','003');f3[3]=new Option('喉糖','005');f3[4]=new Option('藥膏','009');f3[5]=new Option('中成藥 - 口服','019');f3[6]=new Option('中成藥 - 沖劑','020');f3[7]=new Option('中成藥 - 藥油','022');f3[8]=new Option('腸胃藥','029');f3[9]=new Option('維他命 / 礦物質','110');f3[10]=new Option('魚油 / 魚肝油 / 肝油','120');f3[11]=new Option('其他健康護理產品','190');f3[12]=new Option('薄荷酒精','200');f3[13]=new Option('驅蚊用品','210');f3[14]=new Option('止痛貼','230');}
+if (v1 == '040' && v2 == '015') {f3[1]=new Option('膠布','003');f3[2]=new Option('退熱貼','005');}
+if (v1 == '040' && v2 == '801') {f3[1]=new Option('耳溫計','001');}
+if (v1 == '040' && v2 == '110') {f3[1]=new Option('避孕套 / 安全套 / 衛生套','101');}
+if (v1 == '040' && v2 == '210') {f3[1]=new Option('成人紙尿片 / 紙尿褲','301');f3[2]=new Option('成人護墊','303');}
+if (v1 == '045' && v2 == '001') {f3[1]=new Option('洗衣粉','001');f3[2]=new Option('洗衣液','002');f3[3]=new Option('柔順劑','003');f3[4]=new Option('去漬劑','004');}
+if (v1 == '045' && v2 == '002') {f3[1]=new Option('洗潔精','001');f3[2]=new Option('多用途清潔劑','002');f3[3]=new Option('玻璃清潔劑','003');f3[4]=new Option('浴室清潔劑','005');f3[5]=new Option('潔廁劑','007');f3[6]=new Option('傢俱護理劑','009');f3[7]=new Option('漂白水','015');f3[8]=new Option('消毒用品','017');f3[9]=new Option('渠道清潔劑','020');f3[10]=new Option('手套','025');f3[11]=new Option('地拖','111');}
+if (v1 == '045' && v2 == '003') {f3[1]=new Option('盒裝面紙','001');f3[2]=new Option('軟抽面紙','101');f3[3]=new Option('迷你袋裝紙巾','111');f3[4]=new Option('衛生紙 / 廁紙','002');f3[5]=new Option('萬用紙 - 卷裝','003');f3[6]=new Option('萬用紙 - 三摺式','020');}
+if (v1 == '045' && v2 == '004') {f3[1]=new Option('保鮮紙','001');f3[2]=new Option('保鮮袋','003');f3[3]=new Option('錫紙 (鋁箔)','005');}
+if (v1 == '045' && v2 == '020') {f3[1]=new Option('吸濕器 / 吸濕劑 - 盒裝','010');f3[2]=new Option('吸濕器 / 吸濕劑 - 袋裝','020');}
+if (v1 == '045' && v2 == '801') {f3[1]=new Option('慳電膽 / 節能燈泡','201');f3[2]=new Option('LED燈泡','211');}
+if (v1 == '045' && v2 == '805') {f3[1]=new Option('乾狗糧','001');f3[2]=new Option('罐裝狗糧','003');f3[3]=new Option('乾貓糧','005');f3[4]=new Option('罐裝貓糧','007');}
+if (v1 == '046' && v2 == '001') {f3[1]=new Option('罐裝','002');f3[2]=new Option('樽裝','101');}
+if (v1 == '046' && v2 == '002') {f3[1]=new Option('樽裝','001');f3[2]=new Option('罐裝','002');}
+if (v1 == '046' && v2 == '003') {f3[1]=new Option('澳洲','001');f3[2]=new Option('法國','002');f3[3]=new Option('美國','010');}
+if (v1 == '046' && v2 == '004') {f3[1]=new Option('澳洲','001');f3[2]=new Option('法國','002');f3[3]=new Option('美國','003');}
+if (v1 == '046' && v2 == '005') {f3[1]=new Option('中國','001');}
+if (v1 == '046' && v2 == '006') {f3[1]=new Option('中國','001');}
+}
+
+}
+
+</script>
+
+<table border="0" cellpadding="0" cellspacing="0" id="langdiv" style="width: 945px; min-width: 945px;">
+    <tr>
+        <td colspan="3" height="40"></td>
+    </tr>
+    <tr>
+        <td width="407" align=left><!--a href="http://www.consumer.org.hk"><img src="img/logo.jpg" alt="Consumer Council 消費者委員會" border=0></a--></td>
+        <td width="101"><span class="cmshead"></span></td>
+        <td width="272" align=right>
+<a href="/pricewatch/supermarket/index.php?filter1=001&lang=tc"><img src="img/icon_tc.jpg" alt="tc" border=0></a>
+<a href="/pricewatch/supermarket/index.php?filter1=001&lang=sc"><img src="img/icon_sc.jpg" alt="sc" border=0></a>
+<a href="/pricewatch/supermarket/index.php?filter1=001&lang=en"><img src="img/icon_en.jpg" alt="en" border=0></a>
+<br /><a href="#theMainContent" style="float: none;">跳至內容</a>
+</td>
+    </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 945px; background: url(img/hor_bar_bg.gif); background-size: 945px; min-width: 945px;">
+    <tr>
+        <td height="30"><img src="img/space_bar.gif" alt="空格" width="30%" height="8"></td>
+        <td height="30"><div align="center"><a href="http://www.consumer.org.hk/pricewatch/supermarket/"><img src="img/tc/banner.jpg" alt="網上價格一覽通" border=0></a></div><h1 style="display: none;">網上價格一覽通</h1></td>
+        <td height="30"><img src="img/space_bar.gif" alt="空格" width="30%" height="9"></td>
+    </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 945px; min-width: 945px;">
+    <tr>
+        <td><img src="img/space_bar.gif" alt="空格" width="945" height="6"></td>
+    </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 945px; min-width: 945px;">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="2" cellspacing="2" bordercolor="#FFFFFF" background="img/cat_bg.jpg">
+                <tr>
+                    <td><div align="center"><a href="index.php?filter1=001">麵包蛋糕 /<br> 穀類早餐 / 麵包醬</a></div></td>
+                    <td width="1%"><div align="center"><img src="img/divid.jpg" alt="" width=2 height="40" align="bottom"></div></td>
+                    <td><div align="center"><a href="index.php?filter1=004">奶類及乳製品 /<br> 大豆製品 / 蛋類</a></div></td>
+                    <td width="1%"><div align="center"><img src="img/divid.jpg" alt="" width=2 height="40" align="bottom"></div></td>
+                    <td><div align="center"><a href="index.php?filter1=009">糖果 /<br> 餅乾 / 小食</a></div></td>
+                    <td width="1%"><div align="center"><img src="img/divid.jpg" alt="" width=2 height="40" align="bottom"></div></td>
+                    <td><div align="center"><a href="index.php?filter1=015">米 /<br> 食油 / 罐頭 / 蔬果 / 肉類</a></div></td>
+                    <td width="1%"><div align="center"><img src="img/divid.jpg" alt="" width=2 height="40" align="bottom"></div></td>
+                    <td><div align="center"><a href="index.php?filter1=018">粉麵 /<br> 煮食用料 / 冷凍加工食品</a></div></td>
+                    <td width="1%"><div align="center"><img src="img/divid.jpg" alt="" width=2 height="40" align="bottom"></div></td>
+                    <td><div align="center"><a href="index.php?filter1=027">飲品</a></div></td>
+                    <td width="1%"><div align="center"><img src="img/divid.jpg" alt="" width=2 height="40" align="bottom"></div></td>
+                    <td><div align="center"><a href="index.php?filter1=037">奶粉 /<br> 嬰兒用品</a></div></td>
+                    <td width="1%"><div align="center"><img src="img/divid.jpg" alt="" width=2 height="40" align="bottom"></div></td>
+                    <td><div align="center"><a href="index.php?filter1=040">個人護理</a></div></td>
+                    <td width="1%"><div align="center"><img src="img/divid.jpg" alt="" width=2 height="40" align="bottom"></div></td>
+                    <td><div align="center"><a href="index.php?filter1=045">家居用品</a></div></td>
+                    <td width="1%"><div align="center"><img src="img/divid.jpg" alt="" width=2 height="40" align="bottom"></div></td>
+                    <td><div align="center"><a href="index.php?filter1=046">酒類</a></div></td>
+                </tr>
+            </table>
+            <img src="img/shadow.jpg" alt="" width="945" height="6"><br>
+        </td>
+    </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 945px; min-width: 945px;">
+    <tr><td colspan=2 height=5></td></tr>
+    <tr>
+        <td>
+            <!--div align="left">
+                <a href="javascript:window.location='index.php?filter1=001&filter2=&filter3=&view=1'">檢視所有店舖均有售的貨品</a>
+            </div-->
+        </td>
+        <td>
+            <div align="right">
+                <a href="topdiff.php"><img src="img/tc/top10_icon2.jpg" alt="最大差價貨品" border=0></a>
+                <!--img src="img/space_bar.gif" alt="" width="5" height="5">
+                <a href="topdelta.php"><img src="img/top10_icon1.jpg" border=0></a-->
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td height=10 colspan=2></td>
+    </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 945px; min-width: 945px;">
+    <tr>
+        <td align=left>
+            <form name="s1" method="get" action="index.php">
+            <nobr>
+                <input type=hidden name="view" value="0">
+                <label for="filter1">貨品分類1:</label>
+                <select name="filter1" id="filter1" onChange="update_menu(1)">
+                    <option value="">-- 所有分類 --                    <option value="001" selected>麵包蛋糕 / 穀類早餐 / 麵包醬
+                    <option value="004">奶類及乳製品 / 大豆製品 / 蛋類
+                    <option value="009">糖果 / 餅乾 / 小食
+                    <option value="015">米 / 食油 / 罐頭 / 蔬果 / 肉類
+                    <option value="018">粉麵 / 煮食用料 / 冷凍加工食品
+                    <option value="027">飲品
+                    <option value="037">奶粉 / 嬰兒用品
+                    <option value="040">個人護理
+                    <option value="045">家居用品
+                    <option value="046">酒類
+                </select>
+
+                <img src="img/space_bar.gif" alt="空格" width="12" height="15">
+                <label for="filter2">分類2:</label>
+                <select name="filter2" id="filter2" onChange="update_menu(2)">
+                    <option value="">--------
+                    <option value="001">蛋糕
+                    <option value="002">麵包
+                    <option value="003">穀類早餐
+                    <option value="010">麵包醬
+                    <option value="030">蜂蜜 / 蜜糖 / 糖漿
+                </select>
+
+                <img src="img/space_bar.gif" alt="空格" width="12" height="15">
+                <label for="filter3">分類3:</label>
+                <select name="filter3" id="filter3" onChange="update_menu(3)">
+                    <option value="">--------
+                </select>
+
+                <img src="img/space_bar.gif" alt="空格" width="10" height="15">
+                <label for="theShowButt" style="display: none;">顯示</label>
+                <input type="button" value="顯示" id="theShowButt" onClick="document.s1.submit();">
+                <img src="img/space_bar.gif" alt="空格" width="10" height="15">
+            </nobr>
+            </form>
+        </td>
+        <td>
+            <form name="s2" method="get" action="index.php?filter1=">
+            <nobr>
+                <label for="thekeyword1" style="display: none;">搜尋</label><input type=text name="keyword" id="thekeyword1" value="" size=20 maxlength=40>
+                <input type=submit value="搜尋">&nbsp;
+                <a href="javascript:howto_search();"><img src="img/help_small.png" title="你可以輸入超市html編號或SKU#用作搜尋" alt="你可以輸入超市html編號或SKU#用作搜尋" border=0></a>
+            </nobr>
+            </form>
+        </td>
+    </tr>
+</table>
+
+<script type="text/javascript">
+
+function view_cart()
+{
+    open('cart.php', '', 'width=1000,height=580,top=40,left=60,toolbar=no,scrollbars=yes');
+}
+
+function howto_cart()
+{
+    open('howtocart.php', '', 'width=520,height=260,top=60,left=80,toolbar=no,scrollbars=no');
+}
+
+function howto_search()
+{
+    open('howtosearch.php', '', 'width=520,height=220,top=60,left=80,toolbar=no,scrollbars=no');
+}
+
+</script>
+
+<form name="itemlist" method="post" action="">
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 945px; min-width: 945px;">
+    <tr>
+        <td width="480" height="30" align=left>
+            <strong>分類:&nbsp;</strong>
+            <a href="index.php?filter1=001&amp;view=0">麵包蛋糕 / 穀類早餐 / 麵包醬</a>
+        </td>
+        <td height="30" align=right>
+            <nobr>
+            <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww3.consumer.org.hk%2Fsupermarket%2Fgateway.php%3Furl%3Dhttp%3A%2F%2Fwww3.consumer.org.hk%2Fpricewatch%2Fsupermarket%2Findex.php%3Ffilter1%3D001%26lang%3Dtc" target="_fb"><img src="img/facebook.png" alt="facebook button" border=0></a>
+            <a href="http://twitter.com/home?status=http%3A%2F%2Fwww3.consumer.org.hk%2Fpricewatch%2Fsupermarket%2Findex.php%3Ffilter1%3D001%26lang%3Dtc" target="_twitter"><img src="img/twitter.png" alt="twitter button" border=0></a>
+            <a href="http://www3.consumer.org.hk/mail2friend/?lang=tc&amp;url=http%3A%2F%2Fwww3.consumer.org.hk%2Fpricewatch%2Fsupermarket%2Findex.php%3Ffilter1%3D001%26lang%3Dtc" target="_mail2friend"><img src="img/mail2friend.png" alt="mail button" border=0></a>
+            </nobr>
+        </td>
+    </tr>
+</table>
+
+<div style="width: 945px; display: inline-block; text-align: left;">
+    <div id="cartblock" style="width: 420px;">
+        <table border="0" cellspacing="0" cellpadding="0">
+        <tr><td>
+        <nobr>
+        <a href="javascript:document.itemlist.submit()"><img src="img/tc/addbasket.jpg" alt="加入選購籃" width="109" height="36" border=0></a>
+        <a href="javascript:view_cart()"><img src="img/tc/viewbasket.jpg" alt="檢視選購籃" border=0></a>
+        <a href="javascript:howto_cart()" style="margin-left: 15px;"><img src="img/howbasket.gif" alt="購物籃使用說明" border=0>購物籃說明</a>
+       </nobr>
+        </td></tr>
+        </table>
+    </div>
+
+    <div id="noteblock" style="width: auto; text-align: right;">
+        <table id="noteblocktable" border="0" cellspacing="0" cellpadding="2">
+            <tr>
+                <td valign="top"><nobr><span class="smalldesc">備註：</span></nobr></td>
+                <td valign="top" align="left">
+                    <span class="smalldesc">
+                    售價單位為港元。售價及優惠資料來自連鎖超市/健與美零售店的網上購物網站/程式，可能與實體店舖裏的不同，或因地區而異。<br>                    </span>
+                </td>
+            </tr>
+            <tr>
+                <td valign="top">&nbsp;</td>
+                <td valign="top" align="left">
+                    <span class="smalldesc">
+                    <img src="img/tc/remark_icon.gif" alt="特別優惠" width="15" class="pr">
+                    - 另有優惠(可按入瀏覽詳情)。<br>
+                    </span>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<div id="theMainContent">
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 945px; min-width: 945px; table-layout: fixed;">
+    <tr>
+        <td colspan=2 align=right>
+            <span class="comment">最後更新日期: 2016-09-26 09:49</span>
+        </td>
+    </tr>
+</table>
+
+<table border=1 cellspacing=0 cellpadding=2 style="width: 945px; min-width: 945px;">
+    <tr bgcolor="#FED785">
+        <th width=40 class="tableheader">選擇</th>
+        <th width=115 bgcolor="#FED785" class="tableheader">分類</th>
+        <th width=115 bgcolor="#FED785" class="tableheader">牌子</th>
+        <th width=210 bgcolor="#FED785" class="tableheader">貨品<br><span style="font-size: 9px; font-weight: normal;"> (可按入瀏覽詳情) </span></th>
+        <th class="tableheader" width=75>惠康</th>
+        <th class="tableheader" width=75>百佳</th>
+        <th class="tableheader" width=75>Market<br>Place</th>
+        <th class="tableheader" width=75>永旺</th>
+        <th class="tableheader" width=75>大昌食品</th>
+        <th width=90 bgcolor="#FED785" class="tableheader">最後更新日期</th>
+    </tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000000190" value="P000000190"></td>
+<td class="pr2l">蛋糕</td>
+<td class="pr2l">嘉頓 Garden</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000000190" title="孖寶蛋糕 - 櫻桃提子 75克">孖寶蛋糕 - 櫻桃提子 75克</a></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000000190"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 8.20</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000000190"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 8.20</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000189" value="P000000189"></td>
+<td class="pr1l">蛋糕</td>
+<td class="pr1l">嘉頓 Garden</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000189" title="合桃蛋糕 100克">合桃蛋糕 100克</a></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000000189"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 8.20</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000000038" value="P000000038"></td>
+<td class="pr2l">蛋糕</td>
+<td class="pr2l">嘉頓 Garden</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000000038" title="雪芳蛋糕 - 朱古力味 60克">雪芳蛋糕 - 朱古力味 60克</a></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000000038"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 6.80</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000000038"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 6.80</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000230" value="P000000230"></td>
+<td class="pr1l">蛋糕</td>
+<td class="pr1l">嘉頓 Garden</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000230" title="迷你瑞士卷 - 黑加侖子 56克">迷你瑞士卷 - 黑加侖子 56克</a></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000000230"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 7.40</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000000230"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 7.40</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000000643" value="P000000643"></td>
+<td class="pr2l">蛋糕</td>
+<td class="pr2l">嘉頓 Garden</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000000643" title="迷你瑞士卷 - 檸檬 56克">迷你瑞士卷 - 檸檬 56克</a></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000000643"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 7.40</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000000643"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 7.40</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001706" value="P000001706"></td>
+<td class="pr1l">蛋糕</td>
+<td class="pr1l">江戶 EDO Pack</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001706" title="朱古力批 (巧克力批) - 士多啤梨味 300克">朱古力批 (巧克力批) - 士多啤梨味 300克</a></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001706"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000000368" value="P000000368"></td>
+<td class="pr2l">蛋糕</td>
+<td class="pr2l">江戶 EDO Pack</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000000368" title="朱古力批 (巧克力批) 300克">朱古力批 (巧克力批) 300克</a></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000000368"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 11.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000000368"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001310" value="P000001310"></td>
+<td class="pr1l">蛋糕</td>
+<td class="pr1l">樂天 Lotte</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001310" title="朱古力批 (10包) 280克">朱古力批 (10包) 280克</a></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001310"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 11.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002346" value="P000002346"></td>
+<td class="pr2l">蛋糕</td>
+<td class="pr2l">奧利安 Orion</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002346" title="Market O 布朗尼朱古力餅 4包裝 80克">Market O 布朗尼朱古力餅 4包裝 80克</a></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000002346"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 26.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001106" value="P000001106"></td>
+<td class="pr1l">蛋糕</td>
+<td class="pr1l">義美 I-Mei</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001106" title="蜂蜜蛋糕 200克">蜂蜜蛋糕 200克</a></td>
+<td class="pr1rs"><nobr>$ 33.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000000135" value="P000000135"></td>
+<td class="pr2l">蛋糕</td>
+<td class="pr2l">莎莉 Sara Lee</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000000135" title="蛋糕 - 原味 All Butter All Purpose Pound Cake 300克">蛋糕 - 原味 All Butter All Purpose Pound Cake 300克</a></td>
+<td class="pr2rs"><nobr>$ 25.90</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000000135"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 33.90</nobr></td>
+<td class="pr2rs"><nobr>$ 25.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001370" value="P000001370"></td>
+<td class="pr1l">蛋糕</td>
+<td class="pr1l">莎莉 Sara Lee</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001370" title="蛋糕 - 朱古力旋風 Chocolate Swirl Pound Cake 300克">蛋糕 - 朱古力旋風 Chocolate Swirl Pound Cake 300克</a></td>
+<td class="pr1rs"><nobr>$ 25.90</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001370"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 33.90</nobr></td>
+<td class="pr1rs"><nobr>$ 25.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001587" value="P000001587"></td>
+<td class="pr2l">麵包</td>
+<td class="pr2l">嘉頓 Garden</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001587" title="Better Sandwich Bread - 牛奶方飽 6片">Better Sandwich Bread - 牛奶方飽 6片</a></td>
+<td class="pr2rs"><nobr>$ 11.90</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001587"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 11.80</nobr></td>
+<td class="pr2rs"><nobr>$ 12.30</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000192" value="P000000192"></td>
+<td class="pr1l">麵包</td>
+<td class="pr1l">嘉頓 Garden</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000192" title="Better Sandwich Bread - 幼麥方包 6片">Better Sandwich Bread - 幼麥方包 6片</a></td>
+<td class="pr1rs"><nobr>$ 11.90</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000000192"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 11.80</nobr></td>
+<td class="pr1rs"><nobr>$ 12.30</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000000229" value="P000000229"></td>
+<td class="pr2l">麵包</td>
+<td class="pr2l">嘉頓 Garden</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000000229" title="切皮三文治方包 6片">切皮三文治方包 6片</a></td>
+<td class="pr2rs"><nobr>$ 8.40</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000000229"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 8.40</nobr></td>
+<td class="pr2rs"><nobr>$ 8.70</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000033" value="P000000033"></td>
+<td class="pr1l">麵包</td>
+<td class="pr1l">嘉頓 Garden</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000033" title="切皮三文治方麥包 6片">切皮三文治方麥包 6片</a></td>
+<td class="pr1rs"><nobr>$ 8.40</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000000033"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 8.40</nobr></td>
+<td class="pr1rs"><nobr>$ 8.70</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001259" value="P000001259"></td>
+<td class="pr2l">麵包</td>
+<td class="pr2l">嘉頓 Garden</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001259" title="高鈣方包 6片">高鈣方包 6片</a></td>
+<td class="pr2rs"><nobr>$ 11.80</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001259"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 11.90</nobr></td>
+<td class="pr2rs"><nobr>$ 12.20</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000193" value="P000000193"></td>
+<td class="pr1l">麵包</td>
+<td class="pr1l">嘉頓 Garden</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000193" title="生命麵包 - 含蛋白質 14片">生命麵包 - 含蛋白質 14片</a></td>
+<td class="pr1rs"><nobr>$ 12.30</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000000193"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 12.30</nobr></td>
+<td class="pr1rs"><nobr>$ 12.70</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000000836" value="P000000836"></td>
+<td class="pr2l">麵包</td>
+<td class="pr2l">嘉頓 Garden</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000000836" title="生命麵包 - 蜜糖雞蛋 14片">生命麵包 - 蜜糖雞蛋 14片</a></td>
+<td class="pr2rs"><nobr>$ 12.30</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000000836"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 12.30</nobr></td>
+<td class="pr2rs"><nobr>$ 12.70</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000811" value="P000000811"></td>
+<td class="pr1l">麵包</td>
+<td class="pr1l">嘉頓 Garden</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000811" title="生命麵包 14片">生命麵包 14片</a></td>
+<td class="pr1rs"><nobr>$ 10.80</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000000811"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 10.80</nobr></td>
+<td class="pr1rn"><nobr>$ 10.80</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002206" value="P000002206"></td>
+<td class="pr2l">麵包</td>
+<td class="pr2l">嘉頓 Garden</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002206" title="純麥包 430克">純麥包 430克</a></td>
+<td class="pr2rs"><nobr>$ 17.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rs"><nobr>$ 17.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000642" value="P000000642"></td>
+<td class="pr1l">麵包</td>
+<td class="pr1l">嘉頓 Garden</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000642" title="方包 8片">方包 8片</a></td>
+<td class="pr1rs"><nobr>$ 9.60</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000000642"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 9.60</nobr></td>
+<td class="pr1rs"><nobr>$ 9.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001392" value="P000001392"></td>
+<td class="pr2l">麵包</td>
+<td class="pr2l">嘉頓 Garden</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001392" title="軟方包 (切片) 18片">軟方包 (切片) 18片</a></td>
+<td class="pr2rs"><nobr>$ 17.90</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000001392"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 17.50</nobr></td>
+<td class="pr2rs"><nobr>$ 18.50</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001338" value="P000001338"></td>
+<td class="pr1l">麵包</td>
+<td class="pr1l">嘉頓 Garden</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001338" title="厚切方包 6片">厚切方包 6片</a></td>
+<td class="pr1rs"><nobr>$ 9.60</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001338"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 9.60</nobr></td>
+<td class="pr1rs"><nobr>$ 9.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000000034" value="P000000034"></td>
+<td class="pr2l">麵包</td>
+<td class="pr2l">嘉頓 Garden</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000000034" title="方麥包 8片">方麥包 8片</a></td>
+<td class="pr2rs"><nobr>$ 9.60</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000000034"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 9.60</nobr></td>
+<td class="pr2rs"><nobr>$ 9.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002391" value="P000002391"></td>
+<td class="pr1l">麵包</td>
+<td class="pr1l">羅馬 Roman Meal</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002391" title="12精選穀麥包 8片">12精選穀麥包 8片</a></td>
+<td class="pr1rs"><nobr>$ 19.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rs"><nobr>$ 20.50</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001368" value="P000001368"></td>
+<td class="pr2l">麵包</td>
+<td class="pr2l">嘉頓 Garden</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001368" title="小餐包 8個">小餐包 8個</a></td>
+<td class="pr2rs"><nobr>$ 9.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rs"><nobr>$ 10.20</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000810" value="P000000810"></td>
+<td class="pr1l">麵包</td>
+<td class="pr1l">嘉頓 Garden</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000810" title="忌廉檳 - 花生味 1個">忌廉檳 - 花生味 1個</a></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000000810"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 6.20</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000000810"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 6.20</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000000810"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 6.20</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001537" value="P000001537"></td>
+<td class="pr2l">麵包</td>
+<td class="pr2l">嘉頓 Garden</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001537" title="忌廉檳 - 雲呢嗱味 1個">忌廉檳 - 雲呢嗱味 1個</a></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000001537"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 6.20</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000001537"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 6.20</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001539" value="P000001539"></td>
+<td class="pr1l">麵包</td>
+<td class="pr1l">嘉頓 Garden</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001539" title="漢堡包 4個">漢堡包 4個</a></td>
+<td class="pr1rs"><nobr>$ 10.90</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001539"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 10.40</nobr></td>
+<td class="pr1rs"><nobr>$ 11.30</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000000989" value="P000000989"></td>
+<td class="pr2l">麵包</td>
+<td class="pr2l">嘉頓 Garden</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000000989" title="排包 210克">排包 210克</a></td>
+<td class="pr2rs"><nobr>$ 12.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>$ 12.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001585" value="P000001585"></td>
+<td class="pr1l">麵包</td>
+<td class="pr1l">嘉頓 Garden</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001585" title="牛奶餐包 4個">牛奶餐包 4個</a></td>
+<td class="pr1rs"><nobr>$ 9.90</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001585"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 9.90</nobr></td>
+<td class="pr1rs"><nobr>$ 10.20</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000000035" value="P000000035"></td>
+<td class="pr2l">麵包</td>
+<td class="pr2l">嘉頓 Garden</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000000035" title="提子包 4個">提子包 4個</a></td>
+<td class="pr2rs"><nobr>$ 9.90</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000000035"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 9.40</nobr></td>
+<td class="pr2rs"><nobr>$ 10.20</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001373" value="P000001373"></td>
+<td class="pr1l">麵包</td>
+<td class="pr1l">嘉頓 Garden</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001373" title="牛油軟包 4個">牛油軟包 4個</a></td>
+<td class="pr1rs"><nobr>$ 10.50</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001373"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 10.00</nobr></td>
+<td class="pr1rs"><nobr>$ 10.50</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001367" value="P000001367"></td>
+<td class="pr2l">麵包</td>
+<td class="pr2l">嘉頓 Garden</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001367" title="甜餐包 4個">甜餐包 4個</a></td>
+<td class="pr2rs"><nobr>$ 8.90</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001367"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 7.70</nobr></td>
+<td class="pr2rn"><nobr>$ 8.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001533" value="P000001533"></td>
+<td class="pr1l">麵包</td>
+<td class="pr1l">嘉頓 Garden</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001533" title="法國牛角酥 4個">法國牛角酥 4個</a></td>
+<td class="pr1rs"><nobr>$ 17.50</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rs"><nobr>$ 17.50</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001538" value="P000001538"></td>
+<td class="pr2l">麵包</td>
+<td class="pr2l">嘉頓 Garden</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001538" title="英式鬆餅 4個">英式鬆餅 4個</a></td>
+<td class="pr2rs"><nobr>$ 12.90</nobr></td>
+<td class="pr2rs"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>$ 12.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000860" value="P000000860"></td>
+<td class="pr1l">穀類早餐</td>
+<td class="pr1l">桂格 Quaker</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000860" title="即沖燕麥片 - 粟米味 175克 (35克 x 5)">即沖燕麥片 - 粟米味 175克 (35克 x 5)</a></td>
+<td class="pr1rs"><nobr>$ 15.90</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000000860"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 15.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001231" value="P000001231"></td>
+<td class="pr2l">穀類早餐</td>
+<td class="pr2l">桂格 Quaker</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001231" title="即沖燕麥片 - 原味 210克 (42克 x 5)">即沖燕麥片 - 原味 210克 (42克 x 5)</a></td>
+<td class="pr2rs"><nobr>$ 15.90</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000001231"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 15.90</nobr></td>
+<td class="pr2rs"><nobr>$ 16.40</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002705" value="P000002705"></td>
+<td class="pr1l">穀類早餐</td>
+<td class="pr1l">家樂氏 Kellogg's</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002705" title="即食燕麥 800克">即食燕麥 800克</a></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000002705"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 26.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000000808" value="P000000808"></td>
+<td class="pr2l">穀類早餐</td>
+<td class="pr2l">桂格 Quaker</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000000808" title="即食燕麥片 - 袋裝 800克">即食燕麥片 - 袋裝 800克</a></td>
+<td class="pr2rs"><nobr>$ 26.90</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000000808"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 26.90</nobr></td>
+<td class="pr2rn"><nobr>$ 26.90</nobr></td>
+<td class="pr2rn"><nobr>$ 26.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000076" value="P000000076"></td>
+<td class="pr1l">穀類早餐</td>
+<td class="pr1l">桂格 Quaker</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000076" title="即食燕麥片 - 罐裝 800克">即食燕麥片 - 罐裝 800克</a></td>
+<td class="pr1rs"><nobr>$ 28.90</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000000076"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 28.90</nobr></td>
+<td class="pr1rn"><nobr>$ 28.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000000077" value="P000000077"></td>
+<td class="pr2l">穀類早餐</td>
+<td class="pr2l">桂格 Quaker</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000000077" title="快熟燕麥片 - 袋裝 800克">快熟燕麥片 - 袋裝 800克</a></td>
+<td class="pr2rs"><nobr>$ 26.90</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000000077"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 26.90</nobr></td>
+<td class="pr2rn"><nobr>$ 26.90</nobr></td>
+<td class="pr2rn"><nobr>$ 26.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000657" value="P000000657"></td>
+<td class="pr1l">穀類早餐</td>
+<td class="pr1l">桂格 Quaker</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000657" title="快熟燕麥片 - 罐裝 800克">快熟燕麥片 - 罐裝 800克</a></td>
+<td class="pr1rs"><nobr>$ 28.90</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000000657"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 28.90</nobr></td>
+<td class="pr1rn"><nobr>$ 28.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002561" value="P000002561"></td>
+<td class="pr2l">穀類早餐</td>
+<td class="pr2l">Bob's Red Mill</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002561" title="滾壓燕麥 - 特厚 (32安士 / 2磅) 907克">滾壓燕麥 - 特厚 (32安士 / 2磅) 907克</a></td>
+<td class="pr2rn"><nobr>$ 43.90</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000002561"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 43.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002565" value="P000002565"></td>
+<td class="pr1l">穀類早餐</td>
+<td class="pr1l">Bob's Red Mill</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002565" title="滾壓燕麥 - 即食 (32安士 / 2磅) 907克">滾壓燕麥 - 即食 (32安士 / 2磅) 907克</a></td>
+<td class="pr1rn"><nobr>$ 43.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002800" value="P000002800"></td>
+<td class="pr2l">穀類早餐</td>
+<td class="pr2l">Bob's Red Mill</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002800" title="滾壓燕麥 - Old Fashioned (32安士 / 2磅) 907克">滾壓燕麥 - Old Fashioned (32安士 / 2磅) 907克</a></td>
+<td class="pr2rn"><nobr>$ 43.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002564" value="P000002564"></td>
+<td class="pr1l">穀類早餐</td>
+<td class="pr1l">桂格 Quaker</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002564" title="原片大燕麥 (快熟) 800克">原片大燕麥 (快熟) 800克</a></td>
+<td class="pr1rs"><nobr>$ 26.90</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000002564"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 26.90</nobr></td>
+<td class="pr1rn"><nobr>$ 26.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002709" value="P000002709"></td>
+<td class="pr2l">穀類早餐</td>
+<td class="pr2l">桂格 Quaker</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002709" title="原片大燕麥 200克">原片大燕麥 200克</a></td>
+<td class="pr2rs"><nobr>$ 7.50</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000002709"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 7.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000807" value="P000000807"></td>
+<td class="pr1l">穀類早餐</td>
+<td class="pr1l">家樂氏 Kellogg's</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000807" title="原味玉米片 (粟米片) Classic Corn Flakes 170克">原味玉米片 (粟米片) Classic Corn Flakes 170克</a></td>
+<td class="pr1rs"><nobr>$ 17.90</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000000807"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 17.90</nobr></td>
+<td class="pr1rs"><nobr>$ 18.50</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001462" value="P000001462"></td>
+<td class="pr2l">穀類早餐</td>
+<td class="pr2l">家樂氏 Kellogg's</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001462" title="原味玉米片 (粟米片) Classic Corn Flakes 340克">原味玉米片 (粟米片) Classic Corn Flakes 340克</a></td>
+<td class="pr2rs"><nobr>$ 31.50</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001462"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 31.50</nobr></td>
+<td class="pr2rs"><nobr>$ 32.50</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000835" value="P000000835"></td>
+<td class="pr1l">穀類早餐</td>
+<td class="pr1l">家樂氏 Kellogg's</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000835" title="可可米 Coco Pops 275克">可可米 Coco Pops 275克</a></td>
+<td class="pr1rs"><nobr>$ 20.90</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000000835"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 20.90</nobr></td>
+<td class="pr1rs"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001655" value="P000001655"></td>
+<td class="pr2l">穀類早餐</td>
+<td class="pr2l">家樂氏 Kellogg's</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001655" title="什錦果麥 Mueslix - 葡萄乾、杏仁果味 375克">什錦果麥 Mueslix - 葡萄乾、杏仁果味 375克</a></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001655"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 29.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>$ 38.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000057" value="P000000057"></td>
+<td class="pr1l">穀類早餐</td>
+<td class="pr1l">家樂氏 Kellogg's</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000057" title="香甜玉米片 (粟米片) Frosties 250克">香甜玉米片 (粟米片) Frosties 250克</a></td>
+<td class="pr1rs"><nobr>$ 19.90</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000000057"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 19.90</nobr></td>
+<td class="pr1rs"><nobr>$ 20.50</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001649" value="P000001649"></td>
+<td class="pr2l">穀類早餐</td>
+<td class="pr2l">家樂氏 Kellogg's</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001649" title="Special K 香脆麥米片 - 士多啤梨 317克">Special K 香脆麥米片 - 士多啤梨 317克</a></td>
+<td class="pr2rs"><nobr>$ 45.90</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001649"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 39.90</nobr></td>
+<td class="pr2rs"><nobr>$ 47.30</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000863" value="P000000863"></td>
+<td class="pr1l">穀類早餐</td>
+<td class="pr1l">家樂氏 Kellogg's</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000863" title="Special K 香脆麥米片 205克">Special K 香脆麥米片 205克</a></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000000863"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 26.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>$ 29.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001619" value="P000001619"></td>
+<td class="pr2l">穀類早餐</td>
+<td class="pr2l">家樂氏 Kellogg's</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001619" title="Special K 香脆麥米片 370克">Special K 香脆麥米片 370克</a></td>
+<td class="pr2rs"><nobr>$ 45.90</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001619"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 39.90</nobr></td>
+<td class="pr2rs"><nobr>$ 47.30</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000809" value="P000000809"></td>
+<td class="pr1l">穀類早餐</td>
+<td class="pr1l">雀巢 Nestle</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000809" title="蜂蜜星星 Honey Stars 150克">蜂蜜星星 Honey Stars 150克</a></td>
+<td class="pr1rs"><nobr>$ 20.90</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000000809"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 20.90</nobr></td>
+<td class="pr1rs"><nobr>$ 20.90</nobr></td>
+<td class="pr1rs"><nobr>$ 17.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000000812" value="P000000812"></td>
+<td class="pr2l">穀類早餐</td>
+<td class="pr2l">雀巢 Nestle</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000000812" title="可可脆片 Koko Krunch 170克">可可脆片 Koko Krunch 170克</a></td>
+<td class="pr2rs"><nobr>$ 20.90</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000000812"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 20.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rs"><nobr>$ 17.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000834" value="P000000834"></td>
+<td class="pr1l">穀類早餐</td>
+<td class="pr1l">雀巢 Nestle</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000834" title="美祿 Milo 巧克力麥芽口味小麥穀類早餐球 170克">美祿 Milo 巧克力麥芽口味小麥穀類早餐球 170克</a></td>
+<td class="pr1rs"><nobr>$ 20.90</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000000834"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 20.90</nobr></td>
+<td class="pr1rs"><nobr>$ 20.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001452" value="P000001452"></td>
+<td class="pr2l">穀類早餐</td>
+<td class="pr2l">桂格 Quaker</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001452" title="燕麥方脆穀類早餐 (14.5安士) 411克">燕麥方脆穀類早餐 (14.5安士) 411克</a></td>
+<td class="pr2rs"><nobr>$ 23.90</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000001452"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 23.90</nobr></td>
+<td class="pr2rs"><nobr>$ 24.70</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000928" value="P000000928"></td>
+<td class="pr1l">穀類早餐</td>
+<td class="pr1l">桂格 Quaker</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000928" title="燕麥方脆穀類早餐 - 肉桂味 (14.5安士) 411克">燕麥方脆穀類早餐 - 肉桂味 (14.5安士) 411克</a></td>
+<td class="pr1rs"><nobr>$ 23.90</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000000928"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 23.90</nobr></td>
+<td class="pr1rs"><nobr>$ 24.70</nobr></td>
+<td class="pr1rn"><nobr>$ 29.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000000927" value="P000000927"></td>
+<td class="pr2l">穀類早餐</td>
+<td class="pr2l">維他麥 Weetabix</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000000927" title="全麥營養早餐 430克">全麥營養早餐 430克</a></td>
+<td class="pr2rs"><nobr>$ 38.90</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000000927"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 37.90</nobr></td>
+<td class="pr2rs"><nobr>$ 40.10</nobr></td>
+<td class="pr2rs"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001362" value="P000001362"></td>
+<td class="pr1l">麵包醬</td>
+<td class="pr1l">Fifty 50</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001362" title="花生醬 - 幼滑裝 510克">花生醬 - 幼滑裝 510克</a></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001362"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 55.00</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001467" value="P000001467"></td>
+<td class="pr2l">麵包醬</td>
+<td class="pr2l">Fifty 50</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001467" title="花生醬 - 粗粒裝 510克">花生醬 - 粗粒裝 510克</a></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001467"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 55.00</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001140" value="P000001140"></td>
+<td class="pr1l">麵包醬</td>
+<td class="pr1l">紳士牌 Planters</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001140" title="花生醬 - 幼滑裝 340克">花生醬 - 幼滑裝 340克</a></td>
+<td class="pr1rs"><nobr>$ 36.70</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001140"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 36.70</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002123" value="P000002123"></td>
+<td class="pr2l">麵包醬</td>
+<td class="pr2l">紳士牌 Planters</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002123" title="花生醬 - 粗粒裝 340克">花生醬 - 粗粒裝 340克</a></td>
+<td class="pr2rs"><nobr>$ 36.70</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000002123"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 36.70</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002122" value="P000002122"></td>
+<td class="pr1l">麵包醬</td>
+<td class="pr1l">頂好牌 Skippy</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002122" title="花生醬 - 幼滑裝  170克">花生醬 - 幼滑裝  170克</a></td>
+<td class="pr1rs"><nobr>$ 16.20</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000002122"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 16.20</nobr></td>
+<td class="pr1rs"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001137" value="P000001137"></td>
+<td class="pr2l">麵包醬</td>
+<td class="pr2l">頂好牌 Skippy</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001137" title="花生醬 - 幼滑裝 340克">花生醬 - 幼滑裝 340克</a></td>
+<td class="pr2rs"><nobr>$ 25.50</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000001137"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 25.50</nobr></td>
+<td class="pr2rs"><nobr>$ 26.30</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002120" value="P000002120"></td>
+<td class="pr1l">麵包醬</td>
+<td class="pr1l">頂好牌 Skippy</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002120" title="花生醬 - 幼滑裝  462克">花生醬 - 幼滑裝  462克</a></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000002120"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 35.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002121" value="P000002121"></td>
+<td class="pr2l">麵包醬</td>
+<td class="pr2l">頂好牌 Skippy</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002121" title="花生醬 - 幼滑裝  510克">花生醬 - 幼滑裝  510克</a></td>
+<td class="pr2rs"><nobr>$ 34.50</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000002121"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 34.50</nobr></td>
+<td class="pr2rs"><nobr>$ 35.60</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002390" value="P000002390"></td>
+<td class="pr1l">麵包醬</td>
+<td class="pr1l">頂好牌 Skippy</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002390" title="花生醬 - 粗粒裝 170克">花生醬 - 粗粒裝 170克</a></td>
+<td class="pr1rs"><nobr>$ 16.20</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000002390"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 16.20</nobr></td>
+<td class="pr1rs"><nobr>$ 16.70</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002507" value="P000002507"></td>
+<td class="pr2l">麵包醬</td>
+<td class="pr2l">頂好牌 Skippy</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002507" title="花生醬 - 粗粒裝 340克">花生醬 - 粗粒裝 340克</a></td>
+<td class="pr2rs"><nobr>$ 25.50</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000002507"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 25.50</nobr></td>
+<td class="pr2rs"><nobr>$ 26.30</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002389" value="P000002389"></td>
+<td class="pr1l">麵包醬</td>
+<td class="pr1l">頂好牌 Skippy</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002389" title="花生醬 - 粗粒裝 462克">花生醬 - 粗粒裝 462克</a></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000002389"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 33.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001139" value="P000001139"></td>
+<td class="pr2l">麵包醬</td>
+<td class="pr2l">頂好牌 Skippy</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001139" title="花生醬 - 粗粒裝 510克">花生醬 - 粗粒裝 510克</a></td>
+<td class="pr2rs"><nobr>$ 34.50</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000001139"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 34.50</nobr></td>
+<td class="pr2rs"><nobr>$ 35.60</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002307" value="P000002307"></td>
+<td class="pr1l">麵包醬</td>
+<td class="pr1l">頂好牌 Skippy</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002307" title="減脂花生醬 - 幼滑裝  462克">減脂花生醬 - 幼滑裝  462克</a></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000002307"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 36.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002393" value="P000002393"></td>
+<td class="pr2l">麵包醬</td>
+<td class="pr2l">Bonne Maman</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002393" title="果醬 - 黃梅 225克">果醬 - 黃梅 225克</a></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000002393"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 23.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001399" value="P000001399"></td>
+<td class="pr1l">麵包醬</td>
+<td class="pr1l">Bonne Maman</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001399" title="果醬 - 黃梅 370克">果醬 - 黃梅 370克</a></td>
+<td class="pr1rs"><nobr>$ 29.90</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000001399"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 29.90</nobr></td>
+<td class="pr1rs"><nobr>$ 30.80</nobr></td>
+<td class="pr1rn"><nobr>$ 37.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001464" value="P000001464"></td>
+<td class="pr2l">麵包醬</td>
+<td class="pr2l">Fifty 50</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001464" title="果醬 - 士多啤梨 (12安士) 340克">果醬 - 士多啤梨 (12安士) 340克</a></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001464"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 39.50</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002576" value="P000002576"></td>
+<td class="pr1l">麵包醬</td>
+<td class="pr1l">喜來 Hero</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002576" title="果醬 - 杏子(黃梅) 340克">果醬 - 杏子(黃梅) 340克</a></td>
+<td class="pr1rs"><nobr>$ 29.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rs"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002396" value="P000002396"></td>
+<td class="pr2l">麵包醬</td>
+<td class="pr2l">喜來 Hero</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002396" title="果醬 - 藍莓 340克">果醬 - 藍莓 340克</a></td>
+<td class="pr2rs"><nobr>$ 35.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001339" value="P000001339"></td>
+<td class="pr1l">麵包醬</td>
+<td class="pr1l">喜來 Hero</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001339" title="果醬 - 士多啤梨 340克">果醬 - 士多啤梨 340克</a></td>
+<td class="pr1rs"><nobr>$ 29.90</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000001339"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 28.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002395" value="P000002395"></td>
+<td class="pr2l">麵包醬</td>
+<td class="pr2l">羅拔臣 Robertson's</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002395" title="果醬 - 士多啤梨 340克">果醬 - 士多啤梨 340克</a></td>
+<td class="pr2rs"><nobr>$ 23.90</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000002395"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 18.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001303" value="P000001303"></td>
+<td class="pr1l">麵包醬</td>
+<td class="pr1l">羅拔臣 Robertson's</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001303" title="果醬 - 黃梅 340克">果醬 - 黃梅 340克</a></td>
+<td class="pr1rs"><nobr>$ 23.90</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000001303"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 18.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002397" value="P000002397"></td>
+<td class="pr2l">麵包醬</td>
+<td class="pr2l">盛美家 Smucker's</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002397" title="果醬 - 藍莓 340克">果醬 - 藍莓 340克</a></td>
+<td class="pr2rs"><nobr>$ 25.90</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000002397"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 24.90</nobr></td>
+<td class="pr2rn"><nobr>$ 25.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001301" value="P000001301"></td>
+<td class="pr1l">麵包醬</td>
+<td class="pr1l">盛美家 Smucker's</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001301" title="果醬 - 士多啤梨 340克">果醬 - 士多啤梨 340克</a></td>
+<td class="pr1rs"><nobr>$ 24.90</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001301"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 24.90</nobr></td>
+<td class="pr1rn"><nobr>$ 24.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002398" value="P000002398"></td>
+<td class="pr2l">麵包醬</td>
+<td class="pr2l">盛美家 Smucker's</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002398" title="無糖果醬 - 士多啤梨 361克">無糖果醬 - 士多啤梨 361克</a></td>
+<td class="pr2rs"><nobr>$ 32.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002394" value="P000002394"></td>
+<td class="pr1l">麵包醬</td>
+<td class="pr1l">法國聖桃園 St Dalfour France</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002394" title="果醬 - 天然草莓 284克">果醬 - 天然草莓 284克</a></td>
+<td class="pr1rs"><nobr>$ 29.90</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000002394"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 29.90</nobr></td>
+<td class="pr1rs"><nobr>$ 30.80</nobr></td>
+<td class="pr1rn"><nobr>$ 30.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001302" value="P000001302"></td>
+<td class="pr2l">麵包醬</td>
+<td class="pr2l">法國聖桃園 St Dalfour France</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001302" title="果醬 - 天然野生藍莓 284克">果醬 - 天然野生藍莓 284克</a></td>
+<td class="pr2rs"><nobr>$ 29.90</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000001302"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 29.90</nobr></td>
+<td class="pr2rs"><nobr>$ 30.80</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000000212" value="P000000212"></td>
+<td class="pr1l">麵包醬</td>
+<td class="pr1l">美味牌 B&amp;F</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000000212" title="沙律味吞拿魚醬 95克">沙律味吞拿魚醬 95克</a></td>
+<td class="pr1rs"><nobr>$ 10.50</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000000212"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 9.90</nobr></td>
+<td class="pr1rs"><nobr>$ 10.50</nobr></td>
+<td class="pr1rs"><nobr>$ 10.00</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002796" value="P000002796"></td>
+<td class="pr2l">麵包醬</td>
+<td class="pr2l">能多益 Nutella</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002796" title="榛子果仁醬 350克">榛子果仁醬 350克</a></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000002796"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 47.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>$ 44.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002152" value="P000002152"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">蜂兒 Airborne</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002152" title="蜜露蜂蜜 Honeydew 500克">蜜露蜂蜜 Honeydew 500克</a></td>
+<td class="pr1rs"><nobr>$ 129.00</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>$ 129.00</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001379" value="P000001379"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">蜂兒 Airborne</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001379" title="三葉草蜂蜜 Clover 500克">三葉草蜂蜜 Clover 500克</a></td>
+<td class="pr2rs"><nobr>$ 129.00</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001966" value="P000001966"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">蜂兒 Airborne</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001966" title="琉璃苣蜂蜜 Vipers Bugloss 500克">琉璃苣蜂蜜 Vipers Bugloss 500克</a></td>
+<td class="pr1rs"><nobr>$ 129.00</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>$ 129.00</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-21</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001959" value="P000001959"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">Beechworth</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001959" title="純蜂蜜 400克">純蜂蜜 400克</a></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001959"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 73.50</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001965" value="P000001965"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">蜂巢牌 Beehive</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001965" title="中國百花蜜 340克">中國百花蜜 340克</a></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001965"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 37.50</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001383" value="P000001383"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">加比蘭奴 Capilano</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001383" title="澳洲天然蜂蜜 (方便裝) 400克">澳洲天然蜂蜜 (方便裝) 400克</a></td>
+<td class="pr2rn"><nobr>$ 82.90</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001383"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 49.90</nobr></td>
+<td class="pr2rn"><nobr>$ 82.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002716" value="P000002716"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">加比蘭奴 Capilano</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002716" title="麥蘆卡蜂蜜 (方便裝) 400克">麥蘆卡蜂蜜 (方便裝) 400克</a></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000002716"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 76.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001962" value="P000001962"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">加比蘭奴 Capilano</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001962" title="澳洲天然蜂蜜 250克">澳洲天然蜂蜜 250克</a></td>
+<td class="pr2rn"><nobr>$ 60.50</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001961" value="P000001961"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">加比蘭奴 Capilano</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001961" title="澳洲天然蜂蜜 500克">澳洲天然蜂蜜 500克</a></td>
+<td class="pr1rn"><nobr>$ 84.50</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002545" value="P000002545"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">加比蘭奴 Capilano</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002545" title="澳洲天然蜂蜜 1公斤">澳洲天然蜂蜜 1公斤</a></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000002545"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 89.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001960" value="P000001960"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">囍 (雙喜) Double Happiness</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001960" title="百花蜜 300克">百花蜜 300克</a></td>
+<td class="pr1rs"><nobr>$ 24.00</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001384" value="P000001384"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">囍 (雙喜) Double Happiness</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001384" title="百花蜜 460克">百花蜜 460克</a></td>
+<td class="pr2rs"><nobr>$ 32.10</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001956" value="P000001956"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">愛比素 El Brezal</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001956" title="森林蜂蜜 Forest 500克">森林蜂蜜 Forest 500克</a></td>
+<td class="pr1rs"><nobr>$ 75.90</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001956"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 79.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002142" value="P000002142"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">愛比素 El Brezal</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002142" title="高山蜜 Mountain 500克">高山蜜 Mountain 500克</a></td>
+<td class="pr2rs"><nobr>$ 75.90</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000002142"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 79.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002292" value="P000002292"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">愛比素 El Brezal</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002292" title="迷迭香蜜 Rosemary 500克">迷迭香蜜 Rosemary 500克</a></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000002292"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 79.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001972" value="P000001972"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">Glenugie Peak Organics</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001972" title="雨林蜂蜜 Rainforest 400克">雨林蜂蜜 Rainforest 400克</a></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001972"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 88.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001967" value="P000001967"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">Glenugie Peak Organics</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001967" title="野花蜂蜜 Wildflower 400克">野花蜂蜜 Wildflower 400克</a></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001967"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 84.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001973" value="P000001973"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">喜來 Hero</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001973" title="天然蜂蜜 Natural Bee 340克">天然蜂蜜 Natural Bee 340克</a></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001973"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 39.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rs"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001511" value="P000001511"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">蘭絲 Langnese</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001511" title="槐花蜂蜜 Acacia 375克">槐花蜂蜜 Acacia 375克</a></td>
+<td class="pr1rs"><nobr>$ 94.00</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000001511"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 92.00</nobr></td>
+<td class="pr1rs"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002411" value="P000002411"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">蘭絲 Langnese</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002411" title="槐花蜂巢蜂蜜 Acacia Honeycomb 500克">槐花蜂巢蜂蜜 Acacia Honeycomb 500克</a></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000002411"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 175.00</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001374" value="P000001374"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">蘭絲 Langnese</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001374" title="蜂蜜 Pure Bee 375克">蜂蜜 Pure Bee 375克</a></td>
+<td class="pr1rs"><nobr>$ 62.90</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000001374"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 62.90</nobr></td>
+<td class="pr1rs"><nobr>$ 64.80</nobr></td>
+<td class="pr1rn"><nobr>$ 62.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002410" value="P000002410"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">蘭絲 Langnese</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002410" title="蜂皇漿 (in Mountain Flower Honey) 375克">蜂皇漿 (in Mountain Flower Honey) 375克</a></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000002410"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 199.00</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001513" value="P000001513"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">蘭絲 Langnese Bee Easy</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001513" title="槐花蜂蜜 Acacia 方便裝 250克">槐花蜂蜜 Acacia 方便裝 250克</a></td>
+<td class="pr1rs"><nobr>$ 71.90</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000001513"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 69.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001375" value="P000001375"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">蘭絲 Langnese Bee Easy</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001375" title="野花蜂蜜 Wild Flower 方便裝 250克">野花蜂蜜 Wild Flower 方便裝 250克</a></td>
+<td class="pr2rs"><nobr>$ 45.90</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000001375"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 43.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>$ 44.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001968" value="P000001968"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">法國蜜月 Lune de Miel</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001968" title="橙樹槐花蜜 Fruity and Floral 250克">橙樹槐花蜜 Fruity and Floral 250克</a></td>
+<td class="pr1rs"><nobr>$ 49.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rs"><nobr>$ 51.40</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001957" value="P000001957"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">法國蜜月 Lune de Miel</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001957" title="清怡蜂蜜 Mild &amp; Fresh 方便裝 250克">清怡蜂蜜 Mild &amp; Fresh 方便裝 250克</a></td>
+<td class="pr2rs"><nobr>$ 49.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rs"><nobr>$ 51.40</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002697" value="P000002697"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">法國蜜月 Lune de Miel</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002697" title="經典小熊蜂蜜 250克">經典小熊蜂蜜 250克</a></td>
+<td class="pr1rs"><nobr>$ 50.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001974" value="P000001974"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">美怡 Meli</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001974" title="蜂蜜 - 方便裝 Honing.Miel 250克">蜂蜜 - 方便裝 Honing.Miel 250克</a></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000001974"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 53.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001970" value="P000001970"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">純天然 Nature</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001970" title="槐花蜜 454克">槐花蜜 454克</a></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001970"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 60.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001964" value="P000001964"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">Naturoney</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001964" title="藍莓花蜂蜜 Blueberry 375克">藍莓花蜂蜜 Blueberry 375克</a></td>
+<td class="pr2rs"><nobr>$ 59.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002524" value="P000002524"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">Naturoney</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002524" title="有機蜂蜜 375克">有機蜂蜜 375克</a></td>
+<td class="pr1rs"><nobr>$ 69.90</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000002524"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 61.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000002087" value="P000002087"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">Naturoney</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000002087" title="純正加拿大蜂蜜 375克">純正加拿大蜂蜜 375克</a></td>
+<td class="pr2rs"><nobr>$ 59.90</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000002087"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 52.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001979" value="P000001979"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">瑞士 Nectaflor</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001979" title="精選蜂蜜 (天然高山/金合歡花/花蜂蜜) (28.3克 x 3) 84.9克">精選蜂蜜 (天然高山/金合歡花/花蜂蜜) (28.3克 x 3) 84.9克</a></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>$ 23.90</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001598" value="P000001598"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">New Zealand Honey Co</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001598" title="櫸樹蜜露 Beech Forest Honeydew 340克">櫸樹蜜露 Beech Forest Honeydew 340克</a></td>
+<td class="pr2rs"><nobr>$ 98.00</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001598"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 99.90</nobr></td>
+<td class="pr2rs"><nobr>$ 101.00</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001977" value="P000001977"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">New Zealand Honey Co</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001977" title="抗氧百里香 (麝香草) 蜂蜜 Thyme 340克">抗氧百里香 (麝香草) 蜂蜜 Thyme 340克</a></td>
+<td class="pr1rs"><nobr>$ 98.00</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rs"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001514" value="P000001514"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">New Zealand Honey Co</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001514" title="白苜蓿蜂蜜 White Clover 340克">白苜蓿蜂蜜 White Clover 340克</a></td>
+<td class="pr2rs"><nobr>$ 95.00</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001514"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 88.00</nobr></td>
+<td class="pr2rs"><nobr>$ 97.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001561" value="P000001561"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">寶生園 真蜜 Po Sang Yuen</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001561" title="槐花蜜 500克">槐花蜜 500克</a></td>
+<td class="pr1rs"><nobr>$ 55.00</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001611" value="P000001611"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">寶生園 真蜜 Po Sang Yuen</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001611" title="槐花蜜 1公斤">槐花蜜 1公斤</a></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>$ 92.00</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001612" value="P000001612"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">寶生園 真蜜 Po Sang Yuen</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001612" title="龍眼花蜜 1公斤">龍眼花蜜 1公斤</a></td>
+<td class="pr1rs"><nobr>$ 92.00</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001612"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 92.00</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>$ 92.00</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001562" value="P000001562"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">寶生園 真蜜 Po Sang Yuen</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001562" title="百花蜜 500克">百花蜜 500克</a></td>
+<td class="pr2rs"><nobr>$ 48.00</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001562"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 48.00</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000002015" value="P000002015"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">寶生園 真蜜 Po Sang Yuen</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000002015" title="百花蜜 1公斤">百花蜜 1公斤</a></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000002015"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 80.00</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rs"><nobr>$ 74.80</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001512" value="P000001512"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">寶生園 真蜜 Po Sang Yuen</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001512" title="冬蜜 500克">冬蜜 500克</a></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001512"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 55.00</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001382" value="P000001382"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">寶生園 真蜜 Po Sang Yuen</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001382" title="冬蜜 1公斤">冬蜜 1公斤</a></td>
+<td class="pr1rs"><nobr>$ 92.00</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001382"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 92.00</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>$ 92.00</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001976" value="P000001976"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">法國聖桃園 St Dalfour France</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001976" title="橙花蜂蜜 Orange Blossom 200克">橙花蜂蜜 Orange Blossom 200克</a></td>
+<td class="pr2rs"><nobr>$ 36.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rs"><nobr>$ 38.10</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001571" value="P000001571"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">蜜園牌 Sweet Meadow</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001571" title="麥路卡蜂蜜 Manuka 500克">麥路卡蜂蜜 Manuka 500克</a></td>
+<td class="pr1rs"><nobr>$ 168.90</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001571"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 193.90</nobr></td>
+<td class="pr1rs"><nobr>$ 174.00</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001378" value="P000001378"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">蜜園牌 Sweet Meadow</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001378" title="白苜蓿蜂蜜 White Clover 500克">白苜蓿蜂蜜 White Clover 500克</a></td>
+<td class="pr2rs"><nobr>$ 99.90</nobr></td>
+<td class="pr2rs"><nobr><a href="detail.php?itemcode=P000001378"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 99.90</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>$ 149.00</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001376" value="P000001376"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">巨樹牌 Giant Tree Brand</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001376" title="燒烤百花蜜糖漿 255克">燒烤百花蜜糖漿 255克</a></td>
+<td class="pr1rs"><nobr>$ 21.30</nobr></td>
+<td class="pr1rn"><nobr><a href="detail.php?itemcode=P000001376"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 21.30</nobr></td>
+<td class="pr1rn"><nobr>$ 21.30</nobr></td>
+<td class="pr1rs"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr2"><input type="checkbox" name="myitem[]" id="cbP000001515" value="P000001515"></td>
+<td class="pr2l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr2l">巨樹牌 Giant Tree Brand</td>
+<td class="pr2l"><a href="detail.php?itemcode=P000001515" title="燒烤噴霧百花蜜糖漿 180克">燒烤噴霧百花蜜糖漿 180克</a></td>
+<td class="pr2rs"><nobr>$ 21.40</nobr></td>
+<td class="pr2rn"><nobr><a href="detail.php?itemcode=P000001515"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 22.50</nobr></td>
+<td class="pr2rn"><nobr>$ 21.40</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2rn"><nobr>--</nobr></td>
+<td class="pr2r"><nobr>2016-09-26</nobr></td>
+</tr>
+<tr>
+<td class="pr1"><input type="checkbox" name="myitem[]" id="cbP000001395" value="P000001395"></td>
+<td class="pr1l">蜂蜜 / 蜜糖 / 糖漿</td>
+<td class="pr1l">太古 Taikoo</td>
+<td class="pr1l"><a href="detail.php?itemcode=P000001395" title="金黃糖漿 360克">金黃糖漿 360克</a></td>
+<td class="pr1rs"><nobr>$ 16.30</nobr></td>
+<td class="pr1rs"><nobr><a href="detail.php?itemcode=P000001395"><img src="img/tc/remark_icon.gif" alt="特別優惠 " class="pr"></a>&nbsp;$ 16.30</nobr></td>
+<td class="pr1rn"><nobr>$ 16.30</nobr></td>
+<td class="pr1rs"><nobr>--</nobr></td>
+<td class="pr1rn"><nobr>--</nobr></td>
+<td class="pr1r"><nobr>2016-09-26</nobr></td>
+</tr>
+</table>
+
+</div>
+
+<table border=0 cellspacing=0 cellpadding=0 style="width: 945px; min-width: 945px;">
+    <tr>
+        <td align=left>
+            <span class="style1">資料來源:  1.惠康超級市場(香港)網站&nbsp;&nbsp;2.百佳超級市場(香港)有限公司網站/程式&nbsp;&nbsp;3.Market Place by Jasons (HK)超級市場網站&nbsp;&nbsp;4.屈臣氏(香港)網站&nbsp;&nbsp;5.永旺(香港)百貨有限公司網站&nbsp;&nbsp;6.大昌食品市場(香港)網站</span>
+        </td>
+    </tr>
+</table>
+
+</form>
+
+<br>
+
+<img src="img/shadow.jpg" alt="" height="2" style="width: 945px; min-width: 945px;">
+
+<br><br>
+
+<a href="index.php" class="disclaimer">首頁</a>| <a href="privacy_policy.php" class="disclaimer">私隱政策</a> | <a href="copyright.php" class="disclaimer">免責及版權聲明</a> | <a href="faq.php" class="disclaimer">常見問題</a>
+
+<br><br>
+
+</center>
+
+</body>
+
+</html>
