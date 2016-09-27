@@ -37,8 +37,8 @@
       <file leaf-file-name="price_spider.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pricescrapy/spiders/price_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="96" selection-start-line="17" selection-start-column="96" selection-end-line="17" selection-end-column="96" />
+            <state relative-caret-position="-56">
+              <caret line="22" column="96" selection-start-line="22" selection-start-column="96" selection-end-line="22" selection-end-column="96" />
               <folding>
                 <element signature="e#1#34#0" expanded="true" />
               </folding>
@@ -482,8 +482,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pricescrapy/spiders/price_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="96" selection-start-line="17" selection-start-column="96" selection-end-line="17" selection-end-column="96" />
+        <state relative-caret-position="-56">
+          <caret line="22" column="96" selection-start-line="22" selection-start-column="96" selection-end-line="22" selection-end-column="96" />
           <folding>
             <element signature="e#1#34#0" expanded="true" />
           </folding>
